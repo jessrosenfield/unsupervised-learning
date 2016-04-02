@@ -3,6 +3,7 @@
 
 import argparse
 
+from joblib import Parallel, delayed
 import multiprocessing as mp
 from pprint import pprint
 from StringIO import StringIO
