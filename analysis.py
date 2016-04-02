@@ -3,8 +3,7 @@
 
 import argparse
 
-from joblib import Parallel, delayed
-from multiprocessing import Pool
+import multiprocessing as mp
 from pprint import pprint
 from StringIO import StringIO
 
@@ -86,7 +85,7 @@ def em(tx, ty, rx, ry, add="", times=10):
     checker.fit(ry)
     truth = checker.predict(ry)
 
-    # so we do this a `nch of times
+    # so we do this a bunch of times
     for i in range(2,times):
         clusters = {x:[] for x in range(i)}
 
@@ -165,17 +164,23 @@ def nn(tx, ty, rx, ry, add="", iterations=4001):
     resultst = []
     resultsr = []
     iter_arr = np.arange(iterations, step=250)
-    pool = Pool()
-    res = []
+    queue = mp.Queue()
+    processes = []
     resultst = []
     resultsr = []
-    for i_num in iter_arr:
-        res.append(pool.apply_async(_nn, args=[tx, ty, rx, ry, i_num]))
-    for response in res:
-        i_num, train_score, test_score = response.get()
+    processes = [mp.Process(target=_nn, args=[tx, ty, rx, ry, i_num]) for i_num in iter_arr]
+    for p in processes:
+        p.start()
+    for p in processes:
+        p.join()
+    results = []
+    for _ in processes:
+        results.append(queue.get());
+    for result in sorted(results, key=lambda x: x[0]):
+        print result
+        i_num, train_score, test_score = result
         resultst.append(train_score)
         resultsr.append(test_score)
-        print i_num, train_score, test_score
     plot([0, iterations, 0, 1], (positions, resultst, "ro", positions, resultsr, "bo"), "Network Epoch", "Percent Error", "Neural Network Error", "NN"+add)
 
 def _nn(tx, ty, rx, ry, n_iter):
