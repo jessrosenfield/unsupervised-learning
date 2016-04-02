@@ -199,13 +199,10 @@ def _nn(tx, ty, rx, ry, n_iter):
 
 if __name__=="__main__":
     train_x, train_y, test_x, test_y = util.load_vowel()
-    functions = [nn, em, km, pca, ica, randproj, kbest]
-    Parallel(n_jobs=-1)(
-        delayed(name)(train_x, train_y, test_x, test_y) for name in functions)
-    # nn(train_x, train_y, test_x, test_y)
-    # em(train_x, train_y, test_x, test_y)
-    # km(train_x, train_y, test_x, test_y)
-    # pca(train_x, train_y, test_x, test_y)
-    # ica(train_x, train_y, test_x, test_y)
-    # randproj(train_x, train_y, test_x, test_y)
-    # kbest(train_x, train_y, test_x, test_y)
+    nn(train_x, train_y, test_x, test_y)
+    em(train_x, train_y, test_x, test_y)
+    km(train_x, train_y, test_x, test_y)
+    pca(train_x, train_y, test_x, test_y)
+    ica(train_x, train_y, test_x, test_y)
+    randproj(train_x, train_y, test_x, test_y)
+    kbest(train_x, train_y, test_x, test_y)
