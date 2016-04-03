@@ -3,7 +3,7 @@
 
 import argparse
 
-import multiprocessing as mp
+# import multiprocessing as mp
 from pprint import pprint
 from StringIO import StringIO
 
@@ -25,6 +25,7 @@ import data_util as util
 
 
 def plot(axes, values, x_label, y_label, title, name):
+    print "plot" + title + name
     plt.clf()
     plt.plot(*values)
     plt.axis(axes)
@@ -37,6 +38,7 @@ def plot(axes, values, x_label, y_label, title, name):
 
 
 def pca(tx, ty, rx, ry):
+    print "pca"
     compressor = PCA(n_components = tx[1].size/2)
     compressor.fit(tx, y=ty)
     newtx = compressor.transform(tx)
@@ -44,9 +46,11 @@ def pca(tx, ty, rx, ry):
     em(newtx, ty, newrx, ry, add="wPCAtr")
     km(newtx, ty, newrx, ry, add="wPCAtr")
     nn(newtx, ty, newrx, ry, add="wPCAtr")
+    print "pca done"
 
 
 def ica(tx, ty, rx, ry):
+    print "ica"
     compressor = ICA(whiten=True)  # for some people, whiten needs to be off
     compressor.fit(tx, y=ty)
     newtx = compressor.transform(tx)
@@ -54,9 +58,11 @@ def ica(tx, ty, rx, ry):
     em(newtx, ty, newrx, ry, add="wICAtr")
     km(newtx, ty, newrx, ry, add="wICAtr")
     nn(newtx, ty, newrx, ry, add="wICAtr")
+    print "ica done"
 
 
 def randproj(tx, ty, rx, ry):
+    print "randproj"
     compressor = RandomProjection(tx[1].size)
     compressor.fit(tx, y=ty)
     newtx = compressor.transform(tx)
@@ -65,9 +71,11 @@ def randproj(tx, ty, rx, ry):
     em(newtx, ty, newrx, ry, add="wRPtr")
     km(newtx, ty, newrx, ry, add="wRPtr")
     nn(newtx, ty, newrx, ry, add="wRPtr")
+    print "randproj done"
 
 
 def kbest(tx, ty, rx, ry):
+    print "kbest"
     compressor = best(chi2)
     compressor.fit(tx, y=ty)
     newtx = compressor.transform(tx)
@@ -75,9 +83,11 @@ def kbest(tx, ty, rx, ry):
     em(newtx, ty, newrx, ry, add="wKBtr")
     km(newtx, ty, newrx, ry, add="wKBtr")
     nn(newtx, ty, newrx, ry, add="wKBtr")
+    print "kbest done"
 
 
 def em(tx, ty, rx, ry, add="", times=10):
+    print "em" + add
     errs = []
 
     # this is what we will compare to
@@ -123,10 +133,12 @@ def em(tx, ty, rx, ry, add="", times=10):
     newtx = np.append(tx, td, 1)
     newrx = np.append(rx, rd, 1)
     nn(newtx, ty, newrx, ry, add="onEM"+add)
+    print "em done" + done
 
 
 
 def km(tx, ty, rx, ry, add="", times=10):
+    print "km"
     #this does the exact same thing as the above
     clusters = [8, 11] # eight for num speakers, eleven for num vowels
     for num_c in clusters:
@@ -155,35 +167,42 @@ def km(tx, ty, rx, ry, add="", times=10):
         newtx = np.append(tx, td, 1)
         newrx = np.append(rx, rd, 1)
         nn(newtx, ty, newrx, ry, add="onKM"+add)
+    print "km done" + add
 
 
 def nn(tx, ty, rx, ry, add="", iterations=4001):
     """
     trains and plots a neural network on the data we have
     """
+    print "nn" + add
     resultst = []
     resultsr = []
     iter_arr = np.arange(iterations, step=250)
-    queue = mp.Queue()
-    processes = []
-    resultst = []
-    resultsr = []
-    processes = [mp.Process(target=_nn, args=[tx, ty, rx, ry, i_num]) for i_num in iter_arr]
-    for p in processes:
-        p.start()
-    for p in processes:
-        p.join()
-    results = []
-    for _ in processes:
-        results.append(queue.get());
-    for result in sorted(results, key=lambda x: x[0]):
+    # queue = mp.Queue()
+    # processes = []
+    # processes = [mp.Process(target=_nn, args=[tx, ty, rx, ry, i_num]) for i_num in iter_arr]
+    # for p in processes:
+    #     p.start()
+    # for p in processes:
+    #     p.join()
+    # results = []
+    # for _ in processes:
+    #     results.append(queue.get());
+    # for result in sorted(results, key=lambda x: x[0]):
+    #     print result
+    #     i_num, train_score, test_score = result
+    #     resultst.append(train_score)
+    #     resultsr.append(test_score)
+    for i_num in iter_arr:
+        result = _nn(tx, ty, rx, ry, i_num)
         print result
-        i_num, train_score, test_score = result
-        resultst.append(train_score)
-        resultsr.append(test_score)
-    plot([0, iterations, 0, 1], (positions, resultst, "ro", positions, resultsr, "bo"), "Network Epoch", "Percent Error", "Neural Network Error", "NN"+add)
+        resultst.append(result[1])
+        resultsr.append(result[2])
+    plot([0, iterations, 0, 1], (iter_arr, resultst, "ro", iter_arr, resultsr, "bo"), "Network Epoch", "Percent Error", "Neural Network Error", "NN"+add)
+    print "nn done" + add
 
 def _nn(tx, ty, rx, ry, n_iter):
+    print "_nn"
     nn = Classifier(
             layers=[
                 Layer("Tanh", units=100),
@@ -192,11 +211,13 @@ def _nn(tx, ty, rx, ry, n_iter):
     nn.fit(tx, ty)
     resultst = nn.score(tx, ty)
     resultsr = nn.score(rx, ry)
+    print "_nn done"
     return n_iter, resultst, resultsr
 
 
 
 if __name__=="__main__":
+    print "HELLO WORLD WTF"
     train_x, train_y, test_x, test_y = util.load_vowel()
     nn(train_x, train_y, test_x, test_y)
     em(train_x, train_y, test_x, test_y)
