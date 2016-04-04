@@ -1,5 +1,6 @@
 # source: https://github.com/joshuamorton/Machine-Learning/blob/master/P3/analysis.py
 # source: https://github.com/iRapha/CS4641/blob/master/P3/analysis.py
+# source: https://github.com/baiyishr/baiyishr.github.io/blob/master/MLprojects/unsupervisedlearning/tools.py
 
 import argparse
 
@@ -8,7 +9,9 @@ from pprint import pprint
 from StringIO import StringIO
 
 import numpy as np
-from matplotlib import pyplot as plt
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans as KM
 from sklearn.decomposition import FastICA as ICA
@@ -32,7 +35,7 @@ def plot(axes, values, x_label, y_label, title, name):
     plt.title(title)
     plt.ylabel(y_label)
     plt.xlabel(x_label)
-    plt.savefig("plots/"+name+".png", dpi=500)
+    plt.savefig("plots/bc/"+name+".png", dpi=500)
     # plt.show()
     plt.clf()
 
@@ -76,13 +79,16 @@ def randproj(tx, ty, rx, ry):
 
 def kbest(tx, ty, rx, ry):
     print "kbest"
-    compressor = best(chi2)
-    compressor.fit(tx, y=ty)
-    newtx = compressor.transform(tx)
-    newrx = compressor.transform(rx)
-    em(newtx, ty, newrx, ry, add="wKBtr")
-    km(newtx, ty, newrx, ry, add="wKBtr")
-    nn(newtx, ty, newrx, ry, add="wKBtr")
+    for i in range(7):
+        k = i + 1
+        add = "wKBtr" + str(k)
+        compressor = best(chi2, k=k)
+        compressor.fit(tx, y=ty)
+        newtx = compressor.transform(tx)
+        newrx = compressor.transform(rx)
+        em(newtx, ty, newrx, ry, add=add)
+        km(newtx, ty, newrx, ry, add=add)
+        nn(newtx, ty, newrx, ry, add=add)
     print "kbest done"
 
 
@@ -133,7 +139,7 @@ def em(tx, ty, rx, ry, add="", times=10):
     newtx = np.append(tx, td, 1)
     newrx = np.append(rx, rd, 1)
     nn(newtx, ty, newrx, ry, add="onEM"+add)
-    print "em done" + done
+    print "em done" + add
 
 
 
@@ -142,7 +148,7 @@ def km(tx, ty, rx, ry, add="", times=10):
     #this does the exact same thing as the above
     clusters = [8, 11] # eight for num speakers, eleven for num vowels
     for num_c in clusters:
-        add += "nc" + num_c
+        add += "nc" + str(num_c)
         errs = []
         checker = KM(n_clusters=num_c)
         checker.fit(ry)
@@ -177,7 +183,8 @@ def nn(tx, ty, rx, ry, add="", iterations=4001):
     print "nn" + add
     resultst = []
     resultsr = []
-    iter_arr = np.arange(iterations, step=250)
+    iter_arr = np.arange(iterations, step=500)
+    iter_arr[0] = 1
     # queue = mp.Queue()
     # processes = []
     # processes = [mp.Process(target=_nn, args=[tx, ty, rx, ry, i_num]) for i_num in iter_arr]
@@ -196,8 +203,8 @@ def nn(tx, ty, rx, ry, add="", iterations=4001):
     for i_num in iter_arr:
         result = _nn(tx, ty, rx, ry, i_num)
         print result
-        resultst.append(result[1])
-        resultsr.append(result[2])
+        resultst.append(1. - result[1])
+        resultsr.append(1. - result[2])
     plot([0, iterations, 0, 1], (iter_arr, resultst, "ro", iter_arr, resultsr, "bo"), "Network Epoch", "Percent Error", "Neural Network Error", "NN"+add)
     print "nn done" + add
 
@@ -205,7 +212,7 @@ def _nn(tx, ty, rx, ry, n_iter):
     print "_nn"
     nn = Classifier(
             layers=[
-                Layer("Tanh", units=100),
+                Layer("Sigmoid", units=100),
                 Layer("Softmax")],
             n_iter=n_iter)
     nn.fit(tx, ty)
@@ -217,12 +224,11 @@ def _nn(tx, ty, rx, ry, n_iter):
 
 
 if __name__=="__main__":
-    print "HELLO WORLD WTF"
-    train_x, train_y, test_x, test_y = util.load_vowel()
-    nn(train_x, train_y, test_x, test_y)
+    train_x, train_y, test_x, test_y = util.load_breast_cancer()
+    kbest(train_x, train_y, test_x, test_y)
     em(train_x, train_y, test_x, test_y)
     km(train_x, train_y, test_x, test_y)
+    randproj(train_x, train_y, test_x, test_y)
     pca(train_x, train_y, test_x, test_y)
     ica(train_x, train_y, test_x, test_y)
-    randproj(train_x, train_y, test_x, test_y)
-    kbest(train_x, train_y, test_x, test_y)
+    nn(train_x, train_y, test_x, test_y)
