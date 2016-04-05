@@ -1,6 +1,5 @@
 # source: https://github.com/joshuamorton/Machine-Learning/blob/master/P3/analysis.py
 # source: https://github.com/iRapha/CS4641/blob/master/P3/analysis.py
-# source: https://github.com/baiyishr/baiyishr.github.io/blob/master/MLprojects/unsupervisedlearning/tools.py
 
 import argparse
 
