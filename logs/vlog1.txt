@@ -1,0 +1,4469 @@
+kbest
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr1
+plotExpectation Maximization ErrorEMwKBtr1
+nnonEMwKBtr1
+_nn
+/usr/local/lib/python2.7/dist-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+_nn done
+(1, 0.20075757575757575, 0.22510822510822512)
+_nn
+_nn done
+(500, 0.39393939393939392, 0.2943722943722944)
+_nn
+_nn done
+(1000, 0.35416666666666669, 0.31601731601731603)
+_nn
+_nn done
+(1500, 0.375, 0.24891774891774893)
+_nn
+_nn done
+(2000, 0.36742424242424243, 0.29004329004329005)
+_nn
+_nn done
+(2500, 0.375, 0.25541125541125542)
+_nn
+_nn done
+(3000, 0.39204545454545453, 0.2857142857142857)
+_nn
+_nn done
+(3500, 0.33901515151515149, 0.24025974025974026)
+_nn
+_nn done
+(4000, 0.34469696969696972, 0.27272727272727271)
+plotNeural Network ErrorNNonEMwKBtr1
+nn doneonEMwKBtr1
+em donewKBtr1
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc2
+nnonKMwKBtr1nc2
+_nn
+_nn done
+(1, 0.25189393939393939, 0.23160173160173161)
+_nn
+_nn done
+(500, 0.38068181818181818, 0.26406926406926406)
+_nn
+_nn done
+(1000, 0.35984848484848486, 0.25324675324675322)
+_nn
+_nn done
+(1500, 0.38636363636363635, 0.2813852813852814)
+_nn
+_nn done
+(2000, 0.35606060606060608, 0.31168831168831168)
+_nn
+_nn done
+(2500, 0.37310606060606061, 0.26406926406926406)
+_nn
+_nn done
+(3000, 0.34280303030303028, 0.2878787878787879)
+_nn
+_nn done
+(3500, 0.36363636363636365, 0.29004329004329005)
+_nn
+_nn done
+(4000, 0.38825757575757575, 0.27705627705627706)
+plotNeural Network ErrorNNonKMwKBtr1nc2
+nn doneonKMwKBtr1nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc3
+nnonKMwKBtr1nc3
+_nn
+_nn done
+(1, 0.19696969696969696, 0.19913419913419914)
+_nn
+_nn done
+(500, 0.37878787878787878, 0.27705627705627706)
+_nn
+_nn done
+(1000, 0.40340909090909088, 0.2878787878787879)
+_nn
+_nn done
+(1500, 0.39015151515151514, 0.27705627705627706)
+_nn
+_nn done
+(2000, 0.35606060606060608, 0.31385281385281383)
+_nn
+_nn done
+(2500, 0.38068181818181818, 0.2857142857142857)
+_nn
+_nn done
+(3000, 0.36742424242424243, 0.29653679653679654)
+_nn
+_nn done
+(3500, 0.38825757575757575, 0.29653679653679654)
+_nn
+_nn done
+(4000, 0.36553030303030304, 0.26623376623376621)
+plotNeural Network ErrorNNonKMwKBtr1nc3
+nn doneonKMwKBtr1nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc4
+nnonKMwKBtr1nc4
+_nn
+_nn done
+(1, 0.27840909090909088, 0.26406926406926406)
+_nn
+_nn done
+(500, 0.40151515151515149, 0.24891774891774893)
+_nn
+_nn done
+(1000, 0.37310606060606061, 0.26406926406926406)
+_nn
+_nn done
+(1500, 0.36931818181818182, 0.32034632034632032)
+_nn
+_nn done
+(2000, 0.38446969696969696, 0.31385281385281383)
+_nn
+_nn done
+(2500, 0.35416666666666669, 0.23376623376623376)
+_nn
+_nn done
+(3000, 0.32386363636363635, 0.20346320346320346)
+_nn
+_nn done
+(3500, 0.35795454545454547, 0.2857142857142857)
+_nn
+_nn done
+(4000, 0.35227272727272729, 0.26623376623376621)
+plotNeural Network ErrorNNonKMwKBtr1nc4
+nn doneonKMwKBtr1nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc5
+nnonKMwKBtr1nc5
+_nn
+_nn done
+(1, 0.27840909090909088, 0.22294372294372294)
+_nn
+_nn done
+(500, 0.32007575757575757, 0.22727272727272727)
+_nn
+_nn done
+(1000, 0.36742424242424243, 0.27056277056277056)
+_nn
+_nn done
+(1500, 0.40909090909090912, 0.2857142857142857)
+_nn
+_nn done
+(2000, 0.38825757575757575, 0.31168831168831168)
+_nn
+_nn done
+(2500, 0.38068181818181818, 0.26839826839826841)
+_nn
+_nn done
+(3000, 0.375, 0.26190476190476192)
+_nn
+_nn done
+(3500, 0.37121212121212122, 0.27489177489177491)
+_nn
+_nn done
+(4000, 0.40909090909090912, 0.30519480519480519)
+plotNeural Network ErrorNNonKMwKBtr1nc5
+nn doneonKMwKBtr1nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc6
+nnonKMwKBtr1nc6
+_nn
+_nn done
+(1, 0.26325757575757575, 0.24675324675324675)
+_nn
+_nn done
+(500, 0.3996212121212121, 0.29653679653679654)
+_nn
+_nn done
+(1000, 0.37689393939393939, 0.25974025974025972)
+_nn
+_nn done
+(1500, 0.39015151515151514, 0.32034632034632032)
+_nn
+_nn done
+(2000, 0.375, 0.24242424242424243)
+_nn
+_nn done
+(2500, 0.36742424242424243, 0.26623376623376621)
+_nn
+_nn done
+(3000, 0.35795454545454547, 0.2813852813852814)
+_nn
+_nn done
+(3500, 0.34280303030303028, 0.25757575757575757)
+_nn
+_nn done
+(4000, 0.39772727272727271, 0.27056277056277056)
+plotNeural Network ErrorNNonKMwKBtr1nc6
+nn doneonKMwKBtr1nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc7
+nnonKMwKBtr1nc7
+_nn
+_nn done
+(1, 0.28030303030303028, 0.25541125541125542)
+_nn
+_nn done
+(500, 0.375, 0.31385281385281383)
+_nn
+_nn done
+(1000, 0.37689393939393939, 0.26406926406926406)
+_nn
+_nn done
+(1500, 0.39015151515151514, 0.26839826839826841)
+_nn
+_nn done
+(2000, 0.39015151515151514, 0.29004329004329005)
+_nn
+_nn done
+(2500, 0.37310606060606061, 0.26406926406926406)
+_nn
+_nn done
+(3000, 0.34469696969696972, 0.26623376623376621)
+_nn
+_nn done
+(3500, 0.32765151515151514, 0.25324675324675322)
+_nn
+_nn done
+(4000, 0.34280303030303028, 0.21645021645021645)
+plotNeural Network ErrorNNonKMwKBtr1nc7
+nn doneonKMwKBtr1nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc8
+nnonKMwKBtr1nc8
+_nn
+_nn done
+(1, 0.26704545454545453, 0.24242424242424243)
+_nn
+_nn done
+(500, 0.35984848484848486, 0.25541125541125542)
+_nn
+_nn done
+(1000, 0.34659090909090912, 0.26623376623376621)
+_nn
+_nn done
+(1500, 0.39772727272727271, 0.26190476190476192)
+_nn
+_nn done
+(2000, 0.36553030303030304, 0.29220779220779219)
+_nn
+_nn done
+(2500, 0.40530303030303028, 0.27705627705627706)
+_nn
+_nn done
+(3000, 0.34848484848484851, 0.26190476190476192)
+_nn
+_nn done
+(3500, 0.40909090909090912, 0.30086580086580089)
+_nn
+_nn done
+(4000, 0.40151515151515149, 0.27056277056277056)
+plotNeural Network ErrorNNonKMwKBtr1nc8
+nn doneonKMwKBtr1nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc9
+nnonKMwKBtr1nc9
+_nn
+_nn done
+(1, 0.26515151515151514, 0.19696969696969696)
+_nn
+_nn done
+(500, 0.40151515151515149, 0.24675324675324675)
+_nn
+_nn done
+(1000, 0.39204545454545453, 0.27056277056277056)
+_nn
+_nn done
+(1500, 0.35795454545454547, 0.25324675324675322)
+_nn
+_nn done
+(2000, 0.37689393939393939, 0.25108225108225107)
+_nn
+_nn done
+(2500, 0.40340909090909088, 0.25974025974025972)
+_nn
+_nn done
+(3000, 0.40151515151515149, 0.25974025974025972)
+_nn
+_nn done
+(3500, 0.40340909090909088, 0.27489177489177491)
+_nn
+_nn done
+(4000, 0.39583333333333331, 0.2857142857142857)
+plotNeural Network ErrorNNonKMwKBtr1nc9
+nn doneonKMwKBtr1nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc10
+nnonKMwKBtr1nc10
+_nn
+_nn done
+(1, 0.20833333333333334, 0.22727272727272727)
+_nn
+_nn done
+(500, 0.37121212121212122, 0.30735930735930733)
+_nn
+_nn done
+(1000, 0.41666666666666669, 0.25974025974025972)
+_nn
+_nn done
+(1500, 0.36553030303030304, 0.26839826839826841)
+_nn
+_nn done
+(2000, 0.33522727272727271, 0.24675324675324675)
+_nn
+_nn done
+(2500, 0.3996212121212121, 0.30086580086580089)
+_nn
+_nn done
+(3000, 0.36931818181818182, 0.26190476190476192)
+_nn
+_nn done
+(3500, 0.37878787878787878, 0.27489177489177491)
+_nn
+_nn done
+(4000, 0.37878787878787878, 0.27056277056277056)
+plotNeural Network ErrorNNonKMwKBtr1nc10
+nn doneonKMwKBtr1nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc11
+nnonKMwKBtr1nc11
+_nn
+_nn done
+(1, 0.19507575757575757, 0.19047619047619047)
+_nn
+_nn done
+(500, 0.33333333333333331, 0.23809523809523808)
+_nn
+_nn done
+(1000, 0.35984848484848486, 0.32900432900432902)
+_nn
+_nn done
+(1500, 0.34090909090909088, 0.24675324675324675)
+_nn
+_nn done
+(2000, 0.33901515151515149, 0.24242424242424243)
+_nn
+_nn done
+(2500, 0.37878787878787878, 0.26623376623376621)
+_nn
+_nn done
+(3000, 0.36363636363636365, 0.2857142857142857)
+_nn
+_nn done
+(3500, 0.38068181818181818, 0.29870129870129869)
+_nn
+_nn done
+(4000, 0.35227272727272729, 0.25324675324675322)
+plotNeural Network ErrorNNonKMwKBtr1nc11
+nn doneonKMwKBtr1nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc20
+nnonKMwKBtr1nc20
+_nn
+_nn done
+(1, 0.19128787878787878, 0.20995670995670995)
+_nn
+_nn done
+(500, 0.3125, 0.27056277056277056)
+_nn
+_nn done
+(1000, 0.38257575757575757, 0.27056277056277056)
+_nn
+_nn done
+(1500, 0.30871212121212122, 0.26190476190476192)
+_nn
+_nn done
+(2000, 0.34469696969696972, 0.24242424242424243)
+_nn
+_nn done
+(2500, 0.39393939393939392, 0.27705627705627706)
+_nn
+_nn done
+(3000, 0.34469696969696972, 0.30952380952380953)
+_nn
+_nn done
+(3500, 0.36174242424242425, 0.2813852813852814)
+_nn
+_nn done
+(4000, 0.34469696969696972, 0.26839826839826841)
+plotNeural Network ErrorNNonKMwKBtr1nc20
+nn doneonKMwKBtr1nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc50
+nnonKMwKBtr1nc50
+_nn
+_nn done
+(1, 0.23295454545454544, 0.19047619047619047)
+_nn
+_nn done
+(500, 0.39393939393939392, 0.2857142857142857)
+_nn
+_nn done
+(1000, 0.34280303030303028, 0.29004329004329005)
+_nn
+_nn done
+(1500, 0.36931818181818182, 0.2813852813852814)
+_nn
+_nn done
+(2000, 0.40530303030303028, 0.2943722943722944)
+_nn
+_nn done
+(2500, 0.39393939393939392, 0.30086580086580089)
+_nn
+_nn done
+(3000, 0.34848484848484851, 0.24675324675324675)
+_nn
+_nn done
+(3500, 0.38825757575757575, 0.27705627705627706)
+_nn
+_nn done
+(4000, 0.35606060606060608, 0.24675324675324675)
+plotNeural Network ErrorNNonKMwKBtr1nc50
+nn doneonKMwKBtr1nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr1nc88
+nnonKMwKBtr1nc88
+_nn
+_nn done
+(1, 0.19507575757575757, 0.12770562770562771)
+_nn
+_nn done
+(500, 0.36931818181818182, 0.29220779220779219)
+_nn
+_nn done
+(1000, 0.38257575757575757, 0.25108225108225107)
+_nn
+_nn done
+(1500, 0.40151515151515149, 0.25541125541125542)
+_nn
+_nn done
+(2000, 0.36363636363636365, 0.23160173160173161)
+_nn
+_nn done
+(2500, 0.38825757575757575, 0.21212121212121213)
+_nn
+_nn done
+(3000, 0.375, 0.30519480519480519)
+_nn
+_nn done
+(3500, 0.4128787878787879, 0.26190476190476192)
+_nn
+_nn done
+(4000, 0.35795454545454547, 0.24025974025974026)
+plotNeural Network ErrorNNonKMwKBtr1nc88
+nn doneonKMwKBtr1nc88
+km donewKBtr1nc88
+nnwKBtr1
+_nn
+_nn done
+(1, 0.22727272727272727, 0.19696969696969696)
+_nn
+_nn done
+(500, 0.37689393939393939, 0.29653679653679654)
+_nn
+_nn done
+(1000, 0.3371212121212121, 0.25757575757575757)
+_nn
+_nn done
+(1500, 0.35227272727272729, 0.23160173160173161)
+_nn
+_nn done
+(2000, 0.36742424242424243, 0.27056277056277056)
+_nn
+_nn done
+(2500, 0.38446969696969696, 0.28354978354978355)
+_nn
+_nn done
+(3000, 0.3371212121212121, 0.24891774891774893)
+_nn
+_nn done
+(3500, 0.375, 0.25324675324675322)
+_nn
+_nn done
+(4000, 0.3503787878787879, 0.30735930735930733)
+plotNeural Network ErrorNNwKBtr1
+nn donewKBtr1
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr2
+plotExpectation Maximization ErrorEMwKBtr2
+nnonEMwKBtr2
+_nn
+_nn done
+(1, 0.32575757575757575, 0.2943722943722944)
+_nn
+_nn done
+(500, 0.60037878787878785, 0.44805194805194803)
+_nn
+_nn done
+(1000, 0.63636363636363635, 0.48051948051948051)
+_nn
+_nn done
+(1500, 0.62878787878787878, 0.47619047619047616)
+_nn
+_nn done
+(2000, 0.57386363636363635, 0.40692640692640691)
+_nn
+_nn done
+(2500, 0.59659090909090906, 0.41991341991341991)
+_nn
+_nn done
+(3000, 0.61931818181818177, 0.45238095238095238)
+_nn
+_nn done
+(3500, 0.62310606060606055, 0.41558441558441561)
+_nn
+_nn done
+(4000, 0.55303030303030298, 0.37662337662337664)
+plotNeural Network ErrorNNonEMwKBtr2
+nn doneonEMwKBtr2
+em donewKBtr2
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc2
+nnonKMwKBtr2nc2
+_nn
+_nn done
+(1, 0.3125, 0.39177489177489178)
+_nn
+_nn done
+(500, 0.58901515151515149, 0.41125541125541126)
+_nn
+_nn done
+(1000, 0.64772727272727271, 0.44155844155844154)
+_nn
+_nn done
+(1500, 0.58712121212121215, 0.47619047619047616)
+_nn
+_nn done
+(2000, 0.66477272727272729, 0.49134199134199136)
+_nn
+_nn done
+(2500, 0.64583333333333337, 0.40692640692640691)
+_nn
+_nn done
+(3000, 0.62121212121212122, 0.45670995670995673)
+_nn
+_nn done
+(3500, 0.64583333333333337, 0.44805194805194803)
+_nn
+_nn done
+(4000, 0.62689393939393945, 0.42857142857142855)
+plotNeural Network ErrorNNonKMwKBtr2nc2
+nn doneonKMwKBtr2nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc3
+nnonKMwKBtr2nc3
+_nn
+_nn done
+(1, 0.28219696969696972, 0.27056277056277056)
+_nn
+_nn done
+(500, 0.60795454545454541, 0.41341991341991341)
+_nn
+_nn done
+(1000, 0.6382575757575758, 0.41991341991341991)
+_nn
+_nn done
+(1500, 0.64204545454545459, 0.4264069264069264)
+_nn
+_nn done
+(2000, 0.64583333333333337, 0.38311688311688313)
+_nn
+_nn done
+(2500, 0.64772727272727271, 0.39393939393939392)
+_nn
+_nn done
+(3000, 0.62310606060606055, 0.43506493506493504)
+_nn
+_nn done
+(3500, 0.59848484848484851, 0.43506493506493504)
+_nn
+_nn done
+(4000, 0.65530303030303028, 0.41991341991341991)
+plotNeural Network ErrorNNonKMwKBtr2nc3
+nn doneonKMwKBtr2nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc4
+nnonKMwKBtr2nc4
+_nn
+_nn done
+(1, 0.27651515151515149, 0.26623376623376621)
+_nn
+_nn done
+(500, 0.64015151515151514, 0.45454545454545453)
+_nn
+_nn done
+(1000, 0.63446969696969702, 0.46536796536796537)
+_nn
+_nn done
+(1500, 0.62310606060606055, 0.49134199134199136)
+_nn
+_nn done
+(2000, 0.6382575757575758, 0.44588744588744589)
+_nn
+_nn done
+(2500, 0.59090909090909094, 0.46320346320346323)
+_nn
+_nn done
+(3000, 0.6117424242424242, 0.44372294372294374)
+_nn
+_nn done
+(3500, 0.64393939393939392, 0.40476190476190477)
+_nn
+_nn done
+(4000, 0.63446969696969702, 0.5)
+plotNeural Network ErrorNNonKMwKBtr2nc4
+nn doneonKMwKBtr2nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc5
+nnonKMwKBtr2nc5
+_nn
+_nn done
+(1, 0.30871212121212122, 0.28354978354978355)
+_nn
+_nn done
+(500, 0.57765151515151514, 0.44372294372294374)
+_nn
+_nn done
+(1000, 0.61363636363636365, 0.41558441558441561)
+_nn
+_nn done
+(1500, 0.60227272727272729, 0.42207792207792205)
+_nn
+_nn done
+(2000, 0.63636363636363635, 0.42857142857142855)
+_nn
+_nn done
+(2500, 0.68181818181818177, 0.41774891774891776)
+_nn
+_nn done
+(3000, 0.57196969696969702, 0.44588744588744589)
+_nn
+_nn done
+(3500, 0.64962121212121215, 0.45454545454545453)
+_nn
+_nn done
+(4000, 0.58901515151515149, 0.45238095238095238)
+plotNeural Network ErrorNNonKMwKBtr2nc5
+nn doneonKMwKBtr2nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc6
+nnonKMwKBtr2nc6
+_nn
+_nn done
+(1, 0.28219696969696972, 0.23160173160173161)
+_nn
+_nn done
+(500, 0.64772727272727271, 0.43722943722943725)
+_nn
+_nn done
+(1000, 0.60984848484848486, 0.38744588744588743)
+_nn
+_nn done
+(1500, 0.60795454545454541, 0.46320346320346323)
+_nn
+_nn done
+(2000, 0.61363636363636365, 0.37662337662337664)
+_nn
+_nn done
+(2500, 0.66477272727272729, 0.43939393939393939)
+_nn
+_nn done
+(3000, 0.63257575757575757, 0.41558441558441561)
+_nn
+_nn done
+(3500, 0.64772727272727271, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.68939393939393945, 0.4329004329004329)
+plotNeural Network ErrorNNonKMwKBtr2nc6
+nn doneonKMwKBtr2nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc7
+nnonKMwKBtr2nc7
+_nn
+_nn done
+(1, 0.30871212121212122, 0.25324675324675322)
+_nn
+_nn done
+(500, 0.66098484848484851, 0.46103896103896103)
+_nn
+_nn done
+(1000, 0.60037878787878785, 0.44588744588744589)
+_nn
+_nn done
+(1500, 0.59090909090909094, 0.38744588744588743)
+_nn
+_nn done
+(2000, 0.61742424242424243, 0.42424242424242425)
+_nn
+_nn done
+(2500, 0.59280303030303028, 0.4264069264069264)
+_nn
+_nn done
+(3000, 0.57765151515151514, 0.41558441558441561)
+_nn
+_nn done
+(3500, 0.65340909090909094, 0.43073593073593075)
+_nn
+_nn done
+(4000, 0.58522727272727271, 0.46536796536796537)
+plotNeural Network ErrorNNonKMwKBtr2nc7
+nn doneonKMwKBtr2nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc8
+nnonKMwKBtr2nc8
+_nn
+_nn done
+(1, 0.30113636363636365, 0.25974025974025972)
+_nn
+_nn done
+(500, 0.66287878787878785, 0.43073593073593075)
+_nn
+_nn done
+(1000, 0.60227272727272729, 0.44155844155844154)
+_nn
+_nn done
+(1500, 0.64015151515151514, 0.46969696969696972)
+_nn
+_nn done
+(2000, 0.55871212121212122, 0.45887445887445888)
+_nn
+_nn done
+(2500, 0.61363636363636365, 0.38744588744588743)
+_nn
+_nn done
+(3000, 0.60416666666666663, 0.38961038961038963)
+_nn
+_nn done
+(3500, 0.60606060606060608, 0.37662337662337664)
+_nn
+_nn done
+(4000, 0.59469696969696972, 0.41991341991341991)
+plotNeural Network ErrorNNonKMwKBtr2nc8
+nn doneonKMwKBtr2nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc9
+nnonKMwKBtr2nc9
+_nn
+_nn done
+(1, 0.28219696969696972, 0.27272727272727271)
+_nn
+_nn done
+(500, 0.68181818181818177, 0.42207792207792205)
+_nn
+_nn done
+(1000, 0.61742424242424243, 0.42857142857142855)
+_nn
+_nn done
+(1500, 0.55303030303030298, 0.34632034632034631)
+_nn
+_nn done
+(2000, 0.63636363636363635, 0.45238095238095238)
+_nn
+_nn done
+(2500, 0.63068181818181823, 0.41991341991341991)
+_nn
+_nn done
+(3000, 0.57386363636363635, 0.42424242424242425)
+_nn
+_nn done
+(3500, 0.60227272727272729, 0.39610389610389612)
+_nn
+_nn done
+(4000, 0.60416666666666663, 0.39826839826839827)
+plotNeural Network ErrorNNonKMwKBtr2nc9
+nn doneonKMwKBtr2nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc10
+nnonKMwKBtr2nc10
+_nn
+_nn done
+(1, 0.30681818181818182, 0.25541125541125542)
+_nn
+_nn done
+(500, 0.64772727272727271, 0.43939393939393939)
+_nn
+_nn done
+(1000, 0.57954545454545459, 0.47835497835497837)
+_nn
+_nn done
+(1500, 0.67613636363636365, 0.46969696969696972)
+_nn
+_nn done
+(2000, 0.65151515151515149, 0.44372294372294374)
+_nn
+_nn done
+(2500, 0.60227272727272729, 0.45670995670995673)
+_nn
+_nn done
+(3000, 0.65530303030303028, 0.46969696969696972)
+_nn
+_nn done
+(3500, 0.57196969696969702, 0.42424242424242425)
+_nn
+_nn done
+(4000, 0.60606060606060608, 0.45454545454545453)
+plotNeural Network ErrorNNonKMwKBtr2nc10
+nn doneonKMwKBtr2nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc11
+nnonKMwKBtr2nc11
+_nn
+_nn done
+(1, 0.30681818181818182, 0.26190476190476192)
+_nn
+_nn done
+(500, 0.64962121212121215, 0.45887445887445888)
+_nn
+_nn done
+(1000, 0.63636363636363635, 0.45454545454545453)
+_nn
+_nn done
+(1500, 0.64772727272727271, 0.42857142857142855)
+_nn
+_nn done
+(2000, 0.6742424242424242, 0.40909090909090912)
+_nn
+_nn done
+(2500, 0.66287878787878785, 0.46969696969696972)
+_nn
+_nn done
+(3000, 0.63636363636363635, 0.41125541125541126)
+_nn
+_nn done
+(3500, 0.61553030303030298, 0.4264069264069264)
+_nn
+_nn done
+(4000, 0.59659090909090906, 0.41125541125541126)
+plotNeural Network ErrorNNonKMwKBtr2nc11
+nn doneonKMwKBtr2nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc20
+nnonKMwKBtr2nc20
+_nn
+_nn done
+(1, 0.2178030303030303, 0.22077922077922077)
+_nn
+_nn done
+(500, 0.6117424242424242, 0.38744588744588743)
+_nn
+_nn done
+(1000, 0.58901515151515149, 0.42424242424242425)
+_nn
+_nn done
+(1500, 0.63446969696969702, 0.48917748917748916)
+_nn
+_nn done
+(2000, 0.61363636363636365, 0.48051948051948051)
+_nn
+_nn done
+(2500, 0.58143939393939392, 0.44372294372294374)
+_nn
+_nn done
+(3000, 0.63446969696969702, 0.41774891774891776)
+_nn
+_nn done
+(3500, 0.63068181818181823, 0.41558441558441561)
+_nn
+_nn done
+(4000, 0.65909090909090906, 0.44588744588744589)
+plotNeural Network ErrorNNonKMwKBtr2nc20
+nn doneonKMwKBtr2nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc50
+nnonKMwKBtr2nc50
+_nn
+_nn done
+(1, 0.34469696969696972, 0.31818181818181818)
+_nn
+_nn done
+(500, 0.59469696969696972, 0.49134199134199136)
+_nn
+_nn done
+(1000, 0.6382575757575758, 0.45021645021645024)
+_nn
+_nn done
+(1500, 0.64015151515151514, 0.42424242424242425)
+_nn
+_nn done
+(2000, 0.69507575757575757, 0.45887445887445888)
+_nn
+_nn done
+(2500, 0.62121212121212122, 0.42424242424242425)
+_nn
+_nn done
+(3000, 0.61742424242424243, 0.44155844155844154)
+_nn
+_nn done
+(3500, 0.64772727272727271, 0.43939393939393939)
+_nn
+_nn done
+(4000, 0.66856060606060608, 0.43073593073593075)
+plotNeural Network ErrorNNonKMwKBtr2nc50
+nn doneonKMwKBtr2nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr2nc88
+nnonKMwKBtr2nc88
+_nn
+_nn done
+(1, 0.20075757575757575, 0.19696969696969696)
+_nn
+_nn done
+(500, 0.58333333333333337, 0.40259740259740262)
+_nn
+_nn done
+(1000, 0.68939393939393945, 0.47402597402597402)
+_nn
+_nn done
+(1500, 0.61363636363636365, 0.4329004329004329)
+_nn
+_nn done
+(2000, 0.66287878787878785, 0.45670995670995673)
+_nn
+_nn done
+(2500, 0.625, 0.43939393939393939)
+_nn
+_nn done
+(3000, 0.5757575757575758, 0.43506493506493504)
+_nn
+_nn done
+(3500, 0.51893939393939392, 0.33982683982683981)
+_nn
+_nn done
+(4000, 0.53787878787878785, 0.43722943722943725)
+plotNeural Network ErrorNNonKMwKBtr2nc88
+nn doneonKMwKBtr2nc88
+km donewKBtr2nc88
+nnwKBtr2
+_nn
+_nn done
+(1, 0.27083333333333331, 0.2792207792207792)
+_nn
+_nn done
+(500, 0.61363636363636365, 0.45887445887445888)
+_nn
+_nn done
+(1000, 0.60984848484848486, 0.47402597402597402)
+_nn
+_nn done
+(1500, 0.58901515151515149, 0.45454545454545453)
+_nn
+_nn done
+(2000, 0.56818181818181823, 0.40476190476190477)
+_nn
+_nn done
+(2500, 0.625, 0.4329004329004329)
+_nn
+_nn done
+(3000, 0.61742424242424243, 0.52164502164502169)
+_nn
+_nn done
+(3500, 0.57007575757575757, 0.38961038961038963)
+_nn
+_nn done
+(4000, 0.6382575757575758, 0.47402597402597402)
+plotNeural Network ErrorNNwKBtr2
+nn donewKBtr2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr3
+plotExpectation Maximization ErrorEMwKBtr3
+nnonEMwKBtr3
+_nn
+_nn done
+(1, 0.28977272727272729, 0.26190476190476192)
+_nn
+_nn done
+(500, 0.84090909090909094, 0.51082251082251084)
+_nn
+_nn done
+(1000, 0.76515151515151514, 0.44372294372294374)
+_nn
+_nn done
+(1500, 0.8125, 0.48917748917748916)
+_nn
+_nn done
+(2000, 0.80303030303030298, 0.46320346320346323)
+_nn
+_nn done
+(2500, 0.81439393939393945, 0.42424242424242425)
+_nn
+_nn done
+(3000, 0.8617424242424242, 0.46536796536796537)
+_nn
+_nn done
+(3500, 0.66287878787878785, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.67045454545454541, 0.45238095238095238)
+plotNeural Network ErrorNNonEMwKBtr3
+nn doneonEMwKBtr3
+em donewKBtr3
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc2
+nnonKMwKBtr3nc2
+_nn
+_nn done
+(1, 0.32386363636363635, 0.22727272727272727)
+_nn
+_nn done
+(500, 0.81439393939393945, 0.45238095238095238)
+_nn
+_nn done
+(1000, 0.76515151515151514, 0.44372294372294374)
+_nn
+_nn done
+(1500, 0.69886363636363635, 0.44372294372294374)
+_nn
+_nn done
+(2000, 0.75757575757575757, 0.40476190476190477)
+_nn
+_nn done
+(2500, 0.78219696969696972, 0.47835497835497837)
+_nn
+_nn done
+(3000, 0.83522727272727271, 0.45670995670995673)
+_nn
+_nn done
+(3500, 0.8125, 0.45670995670995673)
+_nn
+_nn done
+(4000, 0.77462121212121215, 0.40259740259740262)
+plotNeural Network ErrorNNonKMwKBtr3nc2
+nn doneonKMwKBtr3nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc3
+nnonKMwKBtr3nc3
+_nn
+_nn done
+(1, 0.22727272727272727, 0.19696969696969696)
+_nn
+_nn done
+(500, 0.77462121212121215, 0.45021645021645024)
+_nn
+_nn done
+(1000, 0.75568181818181823, 0.47835497835497837)
+_nn
+_nn done
+(1500, 0.75189393939393945, 0.41774891774891776)
+_nn
+_nn done
+(2000, 0.80113636363636365, 0.46969696969696972)
+_nn
+_nn done
+(2500, 0.68939393939393945, 0.42207792207792205)
+_nn
+_nn done
+(3000, 0.72159090909090906, 0.45454545454545453)
+_nn
+_nn done
+(3500, 0.72537878787878785, 0.45887445887445888)
+_nn
+_nn done
+(4000, 0.77462121212121215, 0.47835497835497837)
+plotNeural Network ErrorNNonKMwKBtr3nc3
+nn doneonKMwKBtr3nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc4
+nnonKMwKBtr3nc4
+_nn
+_nn done
+(1, 0.31818181818181818, 0.37012987012987014)
+_nn
+_nn done
+(500, 0.77651515151515149, 0.49783549783549785)
+_nn
+_nn done
+(1000, 0.8257575757575758, 0.52164502164502169)
+_nn
+_nn done
+(1500, 0.75757575757575757, 0.48268398268398266)
+_nn
+_nn done
+(2000, 0.77651515151515149, 0.50216450216450215)
+_nn
+_nn done
+(2500, 0.78977272727272729, 0.48051948051948051)
+_nn
+_nn done
+(3000, 0.80871212121212122, 0.47619047619047616)
+_nn
+_nn done
+(3500, 0.74242424242424243, 0.49783549783549785)
+_nn
+_nn done
+(4000, 0.80681818181818177, 0.50216450216450215)
+plotNeural Network ErrorNNonKMwKBtr3nc4
+nn doneonKMwKBtr3nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc5
+nnonKMwKBtr3nc5
+_nn
+_nn done
+(1, 0.23484848484848486, 0.19913419913419914)
+_nn
+_nn done
+(500, 0.71212121212121215, 0.52597402597402598)
+_nn
+_nn done
+(1000, 0.82007575757575757, 0.46753246753246752)
+_nn
+_nn done
+(1500, 0.77462121212121215, 0.46969696969696972)
+_nn
+_nn done
+(2000, 0.79545454545454541, 0.48051948051948051)
+_nn
+_nn done
+(2500, 0.75757575757575757, 0.49783549783549785)
+_nn
+_nn done
+(3000, 0.80681818181818177, 0.54978354978354982)
+_nn
+_nn done
+(3500, 0.79356060606060608, 0.48268398268398266)
+_nn
+_nn done
+(4000, 0.75757575757575757, 0.45887445887445888)
+plotNeural Network ErrorNNonKMwKBtr3nc5
+nn doneonKMwKBtr3nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc6
+nnonKMwKBtr3nc6
+_nn
+_nn done
+(1, 0.34469696969696972, 0.33982683982683981)
+_nn
+_nn done
+(500, 0.77083333333333337, 0.51082251082251084)
+_nn
+_nn done
+(1000, 0.77462121212121215, 0.51948051948051943)
+_nn
+_nn done
+(1500, 0.78598484848484851, 0.51298701298701299)
+_nn
+_nn done
+(2000, 0.79545454545454541, 0.53896103896103897)
+_nn
+_nn done
+(2500, 0.74053030303030298, 0.51515151515151514)
+_nn
+_nn done
+(3000, 0.81060606060606055, 0.48701298701298701)
+_nn
+_nn done
+(3500, 0.73863636363636365, 0.51082251082251084)
+_nn
+_nn done
+(4000, 0.70265151515151514, 0.44588744588744589)
+plotNeural Network ErrorNNonKMwKBtr3nc6
+nn doneonKMwKBtr3nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc7
+nnonKMwKBtr3nc7
+_nn
+_nn done
+(1, 0.38446969696969696, 0.26190476190476192)
+_nn
+_nn done
+(500, 0.70454545454545459, 0.47186147186147187)
+_nn
+_nn done
+(1000, 0.65151515151515149, 0.51082251082251084)
+_nn
+_nn done
+(1500, 0.70265151515151514, 0.50216450216450215)
+_nn
+_nn done
+(2000, 0.66098484848484851, 0.47835497835497837)
+_nn
+_nn done
+(2500, 0.83712121212121215, 0.53030303030303028)
+_nn
+_nn done
+(3000, 0.74810606060606055, 0.48917748917748916)
+_nn
+_nn done
+(3500, 0.75378787878787878, 0.46969696969696972)
+_nn
+_nn done
+(4000, 0.7632575757575758, 0.44805194805194803)
+plotNeural Network ErrorNNonKMwKBtr3nc7
+nn doneonKMwKBtr3nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc8
+nnonKMwKBtr3nc8
+_nn
+_nn done
+(1, 0.25378787878787878, 0.24675324675324675)
+_nn
+_nn done
+(500, 0.78598484848484851, 0.46320346320346323)
+_nn
+_nn done
+(1000, 0.80871212121212122, 0.48701298701298701)
+_nn
+_nn done
+(1500, 0.71212121212121215, 0.48051948051948051)
+_nn
+_nn done
+(2000, 0.7992424242424242, 0.48051948051948051)
+_nn
+_nn done
+(2500, 0.7992424242424242, 0.43722943722943725)
+_nn
+_nn done
+(3000, 0.7367424242424242, 0.49567099567099565)
+_nn
+_nn done
+(3500, 0.73863636363636365, 0.47835497835497837)
+_nn
+_nn done
+(4000, 0.81818181818181823, 0.46536796536796537)
+plotNeural Network ErrorNNonKMwKBtr3nc8
+nn doneonKMwKBtr3nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc9
+nnonKMwKBtr3nc9
+_nn
+_nn done
+(1, 0.36363636363636365, 0.33982683982683981)
+_nn
+_nn done
+(500, 0.74810606060606055, 0.46753246753246752)
+_nn
+_nn done
+(1000, 0.71401515151515149, 0.54761904761904767)
+_nn
+_nn done
+(1500, 0.78598484848484851, 0.51082251082251084)
+_nn
+_nn done
+(2000, 0.81060606060606055, 0.51948051948051943)
+_nn
+_nn done
+(2500, 0.71969696969696972, 0.46320346320346323)
+_nn
+_nn done
+(3000, 0.73863636363636365, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.8125, 0.5)
+_nn
+_nn done
+(4000, 0.83333333333333337, 0.53246753246753242)
+plotNeural Network ErrorNNonKMwKBtr3nc9
+nn doneonKMwKBtr3nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc10
+nnonKMwKBtr3nc10
+_nn
+_nn done
+(1, 0.26136363636363635, 0.27056277056277056)
+_nn
+_nn done
+(500, 0.74810606060606055, 0.46969696969696972)
+_nn
+_nn done
+(1000, 0.79545454545454541, 0.47402597402597402)
+_nn
+_nn done
+(1500, 0.77840909090909094, 0.50432900432900429)
+_nn
+_nn done
+(2000, 0.73295454545454541, 0.45670995670995673)
+_nn
+_nn done
+(2500, 0.71022727272727271, 0.46969696969696972)
+_nn
+_nn done
+(3000, 0.83143939393939392, 0.53030303030303028)
+_nn
+_nn done
+(3500, 0.73484848484848486, 0.51515151515151514)
+_nn
+_nn done
+(4000, 0.80871212121212122, 0.46536796536796537)
+plotNeural Network ErrorNNonKMwKBtr3nc10
+nn doneonKMwKBtr3nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc11
+nnonKMwKBtr3nc11
+_nn
+_nn done
+(1, 0.22916666666666666, 0.24025974025974026)
+_nn
+_nn done
+(500, 0.80303030303030298, 0.44805194805194803)
+_nn
+_nn done
+(1000, 0.7367424242424242, 0.43939393939393939)
+_nn
+_nn done
+(1500, 0.83522727272727271, 0.53030303030303028)
+_nn
+_nn done
+(2000, 0.84280303030303028, 0.49783549783549785)
+_nn
+_nn done
+(2500, 0.74621212121212122, 0.4935064935064935)
+_nn
+_nn done
+(3000, 0.74053030303030298, 0.44805194805194803)
+_nn
+_nn done
+(3500, 0.79356060606060608, 0.47619047619047616)
+_nn
+_nn done
+(4000, 0.79166666666666663, 0.46103896103896103)
+plotNeural Network ErrorNNonKMwKBtr3nc11
+nn doneonKMwKBtr3nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc20
+nnonKMwKBtr3nc20
+_nn
+_nn done
+(1, 0.28219696969696972, 0.27489177489177491)
+_nn
+_nn done
+(500, 0.73295454545454541, 0.54978354978354982)
+_nn
+_nn done
+(1000, 0.73295454545454541, 0.53679653679653683)
+_nn
+_nn done
+(1500, 0.80871212121212122, 0.51948051948051943)
+_nn
+_nn done
+(2000, 0.80492424242424243, 0.46536796536796537)
+_nn
+_nn done
+(2500, 0.77462121212121215, 0.43506493506493504)
+_nn
+_nn done
+(3000, 0.76704545454545459, 0.5)
+_nn
+_nn done
+(3500, 0.76704545454545459, 0.45670995670995673)
+_nn
+_nn done
+(4000, 0.77651515151515149, 0.51082251082251084)
+plotNeural Network ErrorNNonKMwKBtr3nc20
+nn doneonKMwKBtr3nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc50
+nnonKMwKBtr3nc50
+_nn
+_nn done
+(1, 0.23106060606060605, 0.23160173160173161)
+_nn
+_nn done
+(500, 0.82954545454545459, 0.43939393939393939)
+_nn
+_nn done
+(1000, 0.76893939393939392, 0.45454545454545453)
+_nn
+_nn done
+(1500, 0.71780303030303028, 0.49134199134199136)
+_nn
+_nn done
+(2000, 0.80871212121212122, 0.4329004329004329)
+_nn
+_nn done
+(2500, 0.75, 0.40476190476190477)
+_nn
+_nn done
+(3000, 0.83333333333333337, 0.43506493506493504)
+_nn
+_nn done
+(3500, 0.8257575757575758, 0.48917748917748916)
+_nn
+_nn done
+(4000, 0.75568181818181823, 0.45454545454545453)
+plotNeural Network ErrorNNonKMwKBtr3nc50
+nn doneonKMwKBtr3nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr3nc88
+nnonKMwKBtr3nc88
+_nn
+_nn done
+(1, 0.30681818181818182, 0.2792207792207792)
+_nn
+_nn done
+(500, 0.77840909090909094, 0.52164502164502169)
+_nn
+_nn done
+(1000, 0.78219696969696972, 0.48484848484848486)
+_nn
+_nn done
+(1500, 0.70454545454545459, 0.4935064935064935)
+_nn
+_nn done
+(2000, 0.80492424242424243, 0.50432900432900429)
+_nn
+_nn done
+(2500, 0.74053030303030298, 0.50432900432900429)
+_nn
+_nn done
+(3000, 0.7367424242424242, 0.51298701298701299)
+_nn
+_nn done
+(3500, 0.79166666666666663, 0.49567099567099565)
+_nn
+_nn done
+(4000, 0.83333333333333337, 0.45670995670995673)
+plotNeural Network ErrorNNonKMwKBtr3nc88
+nn doneonKMwKBtr3nc88
+km donewKBtr3nc88
+nnwKBtr3
+_nn
+_nn done
+(1, 0.22159090909090909, 0.24458874458874458)
+_nn
+_nn done
+(500, 0.71969696969696972, 0.50649350649350644)
+_nn
+_nn done
+(1000, 0.76136363636363635, 0.49134199134199136)
+_nn
+_nn done
+(1500, 0.7007575757575758, 0.48701298701298701)
+_nn
+_nn done
+(2000, 0.78598484848484851, 0.45021645021645024)
+_nn
+_nn done
+(2500, 0.74431818181818177, 0.46320346320346323)
+_nn
+_nn done
+(3000, 0.80303030303030298, 0.47835497835497837)
+_nn
+_nn done
+(3500, 0.76515151515151514, 0.45454545454545453)
+_nn
+_nn done
+(4000, 0.74242424242424243, 0.51948051948051943)
+plotNeural Network ErrorNNwKBtr3
+nn donewKBtr3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr4
+plotExpectation Maximization ErrorEMwKBtr4
+nnonEMwKBtr4
+_nn
+_nn done
+(1, 0.36742424242424243, 0.27705627705627706)
+_nn
+_nn done
+(500, 0.82954545454545459, 0.4935064935064935)
+_nn
+_nn done
+(1000, 0.90909090909090906, 0.48268398268398266)
+_nn
+_nn done
+(1500, 0.89393939393939392, 0.47402597402597402)
+_nn
+_nn done
+(2000, 0.875, 0.50216450216450215)
+_nn
+_nn done
+(2500, 0.87878787878787878, 0.48051948051948051)
+_nn
+_nn done
+(3000, 0.8617424242424242, 0.45021645021645024)
+_nn
+_nn done
+(3500, 0.875, 0.46320346320346323)
+_nn
+_nn done
+(4000, 0.89772727272727271, 0.49783549783549785)
+plotNeural Network ErrorNNonEMwKBtr4
+nn doneonEMwKBtr4
+em donewKBtr4
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc2
+nnonKMwKBtr4nc2
+_nn
+_nn done
+(1, 0.36931818181818182, 0.34199134199134201)
+_nn
+_nn done
+(500, 0.87689393939393945, 0.49567099567099565)
+_nn
+_nn done
+(1000, 0.87310606060606055, 0.49134199134199136)
+_nn
+_nn done
+(1500, 0.85606060606060608, 0.54112554112554112)
+_nn
+_nn done
+(2000, 0.87878787878787878, 0.54329004329004327)
+_nn
+_nn done
+(2500, 0.89393939393939392, 0.52597402597402598)
+_nn
+_nn done
+(3000, 0.85984848484848486, 0.48051948051948051)
+_nn
+_nn done
+(3500, 0.84090909090909094, 0.54978354978354982)
+_nn
+_nn done
+(4000, 0.85606060606060608, 0.49134199134199136)
+plotNeural Network ErrorNNonKMwKBtr4nc2
+nn doneonKMwKBtr4nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc3
+nnonKMwKBtr4nc3
+_nn
+_nn done
+(1, 0.36742424242424243, 0.28354978354978355)
+_nn
+_nn done
+(500, 0.85984848484848486, 0.50216450216450215)
+_nn
+_nn done
+(1000, 0.84848484848484851, 0.51082251082251084)
+_nn
+_nn done
+(1500, 0.88257575757575757, 0.51515151515151514)
+_nn
+_nn done
+(2000, 0.84659090909090906, 0.51515151515151514)
+_nn
+_nn done
+(2500, 0.8617424242424242, 0.47619047619047616)
+_nn
+_nn done
+(3000, 0.81818181818181823, 0.5)
+_nn
+_nn done
+(3500, 0.92613636363636365, 0.5086580086580087)
+_nn
+_nn done
+(4000, 0.93181818181818177, 0.45670995670995673)
+plotNeural Network ErrorNNonKMwKBtr4nc3
+nn doneonKMwKBtr4nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc4
+nnonKMwKBtr4nc4
+_nn
+_nn done
+(1, 0.27651515151515149, 0.29870129870129869)
+_nn
+_nn done
+(500, 0.89772727272727271, 0.52813852813852813)
+_nn
+_nn done
+(1000, 0.84090909090909094, 0.51731601731601728)
+_nn
+_nn done
+(1500, 0.87689393939393945, 0.49783549783549785)
+_nn
+_nn done
+(2000, 0.88068181818181823, 0.46753246753246752)
+_nn
+_nn done
+(2500, 0.75757575757575757, 0.42424242424242425)
+_nn
+_nn done
+(3000, 0.89393939393939392, 0.48051948051948051)
+_nn
+_nn done
+(3500, 0.77462121212121215, 0.5)
+_nn
+_nn done
+(4000, 0.84848484848484851, 0.53463203463203468)
+plotNeural Network ErrorNNonKMwKBtr4nc4
+nn doneonKMwKBtr4nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc5
+nnonKMwKBtr4nc5
+_nn
+_nn done
+(1, 0.30871212121212122, 0.28354978354978355)
+_nn
+_nn done
+(500, 0.88636363636363635, 0.4329004329004329)
+_nn
+_nn done
+(1000, 0.81818181818181823, 0.48701298701298701)
+_nn
+_nn done
+(1500, 0.91666666666666663, 0.44805194805194803)
+_nn
+_nn done
+(2000, 0.86931818181818177, 0.54112554112554112)
+_nn
+_nn done
+(2500, 0.89583333333333337, 0.4935064935064935)
+_nn
+_nn done
+(3000, 0.92045454545454541, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.91666666666666663, 0.50216450216450215)
+_nn
+_nn done
+(4000, 0.90151515151515149, 0.48484848484848486)
+plotNeural Network ErrorNNonKMwKBtr4nc5
+nn doneonKMwKBtr4nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc6
+nnonKMwKBtr4nc6
+_nn
+_nn done
+(1, 0.33143939393939392, 0.29004329004329005)
+_nn
+_nn done
+(500, 0.9375, 0.48484848484848486)
+_nn
+_nn done
+(1000, 0.91287878787878785, 0.53463203463203468)
+_nn
+_nn done
+(1500, 0.88257575757575757, 0.56277056277056281)
+_nn
+_nn done
+(2000, 0.90909090909090906, 0.53679653679653683)
+_nn
+_nn done
+(2500, 0.90151515151515149, 0.52380952380952384)
+_nn
+_nn done
+(3000, 0.91477272727272729, 0.53679653679653683)
+_nn
+_nn done
+(3500, 0.9242424242424242, 0.54112554112554112)
+_nn
+_nn done
+(4000, 0.89204545454545459, 0.49783549783549785)
+plotNeural Network ErrorNNonKMwKBtr4nc6
+nn doneonKMwKBtr4nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc7
+nnonKMwKBtr4nc7
+_nn
+_nn done
+(1, 0.36174242424242425, 0.32900432900432902)
+_nn
+_nn done
+(500, 0.92803030303030298, 0.48917748917748916)
+_nn
+_nn done
+(1000, 0.83901515151515149, 0.45670995670995673)
+_nn
+_nn done
+(1500, 0.83143939393939392, 0.48701298701298701)
+_nn
+_nn done
+(2000, 0.87878787878787878, 0.49783549783549785)
+_nn
+_nn done
+(2500, 0.87689393939393945, 0.4264069264069264)
+_nn
+_nn done
+(3000, 0.83333333333333337, 0.48268398268398266)
+_nn
+_nn done
+(3500, 0.83522727272727271, 0.48268398268398266)
+_nn
+_nn done
+(4000, 0.84280303030303028, 0.49567099567099565)
+plotNeural Network ErrorNNonKMwKBtr4nc7
+nn doneonKMwKBtr4nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc8
+nnonKMwKBtr4nc8
+_nn
+_nn done
+(1, 0.33333333333333331, 0.25108225108225107)
+_nn
+_nn done
+(500, 0.91666666666666663, 0.45238095238095238)
+_nn
+_nn done
+(1000, 0.91477272727272729, 0.48268398268398266)
+_nn
+_nn done
+(1500, 0.88636363636363635, 0.46969696969696972)
+_nn
+_nn done
+(2000, 0.80681818181818177, 0.44805194805194803)
+_nn
+_nn done
+(2500, 0.86931818181818177, 0.45454545454545453)
+_nn
+_nn done
+(3000, 0.84469696969696972, 0.46320346320346323)
+_nn
+_nn done
+(3500, 0.83712121212121215, 0.47835497835497837)
+_nn
+_nn done
+(4000, 0.90340909090909094, 0.49567099567099565)
+plotNeural Network ErrorNNonKMwKBtr4nc8
+nn doneonKMwKBtr4nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc9
+nnonKMwKBtr4nc9
+_nn
+_nn done
+(1, 0.34659090909090912, 0.29870129870129869)
+_nn
+_nn done
+(500, 0.84280303030303028, 0.51298701298701299)
+_nn
+_nn done
+(1000, 0.87121212121212122, 0.47619047619047616)
+_nn
+_nn done
+(1500, 0.85606060606060608, 0.48268398268398266)
+_nn
+_nn done
+(2000, 0.81060606060606055, 0.41991341991341991)
+_nn
+_nn done
+(2500, 0.85795454545454541, 0.46536796536796537)
+_nn
+_nn done
+(3000, 0.82196969696969702, 0.44155844155844154)
+_nn
+_nn done
+(3500, 0.80113636363636365, 0.46753246753246752)
+_nn
+_nn done
+(4000, 0.88257575757575757, 0.44155844155844154)
+plotNeural Network ErrorNNonKMwKBtr4nc9
+nn doneonKMwKBtr4nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc10
+nnonKMwKBtr4nc10
+_nn
+_nn done
+(1, 0.32575757575757575, 0.26839826839826841)
+_nn
+_nn done
+(500, 0.83901515151515149, 0.53030303030303028)
+_nn
+_nn done
+(1000, 0.85416666666666663, 0.55627705627705626)
+_nn
+_nn done
+(1500, 0.91477272727272729, 0.55627705627705626)
+_nn
+_nn done
+(2000, 0.88257575757575757, 0.52813852813852813)
+_nn
+_nn done
+(2500, 0.86363636363636365, 0.51298701298701299)
+_nn
+_nn done
+(3000, 0.87878787878787878, 0.53246753246753242)
+_nn
+_nn done
+(3500, 0.80303030303030298, 0.52380952380952384)
+_nn
+_nn done
+(4000, 0.875, 0.52164502164502169)
+plotNeural Network ErrorNNonKMwKBtr4nc10
+nn doneonKMwKBtr4nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc11
+nnonKMwKBtr4nc11
+_nn
+_nn done
+(1, 0.33333333333333331, 0.2857142857142857)
+_nn
+_nn done
+(500, 0.85606060606060608, 0.55194805194805197)
+_nn
+_nn done
+(1000, 0.81818181818181823, 0.53246753246753242)
+_nn
+_nn done
+(1500, 0.88068181818181823, 0.53463203463203468)
+_nn
+_nn done
+(2000, 0.85795454545454541, 0.55411255411255411)
+_nn
+_nn done
+(2500, 0.89772727272727271, 0.55194805194805197)
+_nn
+_nn done
+(3000, 0.83901515151515149, 0.49134199134199136)
+_nn
+_nn done
+(3500, 0.91287878787878785, 0.56277056277056281)
+_nn
+_nn done
+(4000, 0.88257575757575757, 0.53463203463203468)
+plotNeural Network ErrorNNonKMwKBtr4nc11
+nn doneonKMwKBtr4nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc20
+nnonKMwKBtr4nc20
+_nn
+_nn done
+(1, 0.26893939393939392, 0.24458874458874458)
+_nn
+_nn done
+(500, 0.8882575757575758, 0.51731601731601728)
+_nn
+_nn done
+(1000, 0.88636363636363635, 0.46753246753246752)
+_nn
+_nn done
+(1500, 0.87878787878787878, 0.47619047619047616)
+_nn
+_nn done
+(2000, 0.91098484848484851, 0.46320346320346323)
+_nn
+_nn done
+(2500, 0.8617424242424242, 0.48917748917748916)
+_nn
+_nn done
+(3000, 0.875, 0.50216450216450215)
+_nn
+_nn done
+(3500, 0.91477272727272729, 0.46103896103896103)
+_nn
+_nn done
+(4000, 0.84848484848484851, 0.45021645021645024)
+plotNeural Network ErrorNNonKMwKBtr4nc20
+nn doneonKMwKBtr4nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc50
+nnonKMwKBtr4nc50
+_nn
+_nn done
+(1, 0.36363636363636365, 0.29220779220779219)
+_nn
+_nn done
+(500, 0.88446969696969702, 0.52164502164502169)
+_nn
+_nn done
+(1000, 0.90530303030303028, 0.51082251082251084)
+_nn
+_nn done
+(1500, 0.91666666666666663, 0.44372294372294374)
+_nn
+_nn done
+(2000, 0.91666666666666663, 0.51731601731601728)
+_nn
+_nn done
+(2500, 0.90719696969696972, 0.47619047619047616)
+_nn
+_nn done
+(3000, 0.89015151515151514, 0.49134199134199136)
+_nn
+_nn done
+(3500, 0.88257575757575757, 0.48268398268398266)
+_nn
+_nn done
+(4000, 0.81439393939393945, 0.51948051948051943)
+plotNeural Network ErrorNNonKMwKBtr4nc50
+nn doneonKMwKBtr4nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr4nc88
+nnonKMwKBtr4nc88
+_nn
+_nn done
+(1, 0.36931818181818182, 0.29004329004329005)
+_nn
+_nn done
+(500, 0.85037878787878785, 0.52164502164502169)
+_nn
+_nn done
+(1000, 0.82386363636363635, 0.54329004329004327)
+_nn
+_nn done
+(1500, 0.86931818181818177, 0.51731601731601728)
+_nn
+_nn done
+(2000, 0.85416666666666663, 0.50649350649350644)
+_nn
+_nn done
+(2500, 0.88068181818181823, 0.54112554112554112)
+_nn
+_nn done
+(3000, 0.85606060606060608, 0.52813852813852813)
+_nn
+_nn done
+(3500, 0.8617424242424242, 0.54545454545454541)
+_nn
+_nn done
+(4000, 0.89583333333333337, 0.52597402597402598)
+plotNeural Network ErrorNNonKMwKBtr4nc88
+nn doneonKMwKBtr4nc88
+km donewKBtr4nc88
+nnwKBtr4
+_nn
+_nn done
+(1, 0.32575757575757575, 0.23376623376623376)
+_nn
+_nn done
+(500, 0.91856060606060608, 0.53679653679653683)
+_nn
+_nn done
+(1000, 0.83712121212121215, 0.46536796536796537)
+_nn
+_nn done
+(1500, 0.86363636363636365, 0.49567099567099565)
+_nn
+_nn done
+(2000, 0.87689393939393945, 0.53030303030303028)
+_nn
+_nn done
+(2500, 0.8882575757575758, 0.48268398268398266)
+_nn
+_nn done
+(3000, 0.92613636363636365, 0.49134199134199136)
+_nn
+_nn done
+(3500, 0.91856060606060608, 0.51298701298701299)
+_nn
+_nn done
+(4000, 0.90340909090909094, 0.50649350649350644)
+plotNeural Network ErrorNNwKBtr4
+nn donewKBtr4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr5
+plotExpectation Maximization ErrorEMwKBtr5
+nnonEMwKBtr5
+_nn
+_nn done
+(1, 0.32765151515151514, 0.30519480519480519)
+_nn
+_nn done
+(500, 0.9242424242424242, 0.49567099567099565)
+_nn
+_nn done
+(1000, 0.90909090909090906, 0.45238095238095238)
+_nn
+_nn done
+(1500, 0.9507575757575758, 0.49567099567099565)
+_nn
+_nn done
+(2000, 0.92234848484848486, 0.48051948051948051)
+_nn
+_nn done
+(2500, 0.95265151515151514, 0.49783549783549785)
+_nn
+_nn done
+(3000, 0.86553030303030298, 0.44588744588744589)
+_nn
+_nn done
+(3500, 0.84090909090909094, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.93181818181818177, 0.46103896103896103)
+plotNeural Network ErrorNNonEMwKBtr5
+nn doneonEMwKBtr5
+em donewKBtr5
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc2
+nnonKMwKBtr5nc2
+_nn
+_nn done
+(1, 0.31628787878787878, 0.2943722943722944)
+_nn
+_nn done
+(500, 0.94318181818181823, 0.43939393939393939)
+_nn
+_nn done
+(1000, 0.97537878787878785, 0.43506493506493504)
+_nn
+_nn done
+(1500, 0.9375, 0.47186147186147187)
+_nn
+_nn done
+(2000, 0.9242424242424242, 0.45670995670995673)
+_nn
+_nn done
+(2500, 0.96401515151515149, 0.46536796536796537)
+_nn
+_nn done
+(3000, 0.94318181818181823, 0.44372294372294374)
+_nn
+_nn done
+(3500, 0.94886363636363635, 0.46320346320346323)
+_nn
+_nn done
+(4000, 0.95643939393939392, 0.45670995670995673)
+plotNeural Network ErrorNNonKMwKBtr5nc2
+nn doneonKMwKBtr5nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc3
+nnonKMwKBtr5nc3
+_nn
+_nn done
+(1, 0.29924242424242425, 0.24675324675324675)
+_nn
+_nn done
+(500, 0.95833333333333337, 0.49567099567099565)
+_nn
+_nn done
+(1000, 0.90530303030303028, 0.5086580086580087)
+_nn
+_nn done
+(1500, 0.92992424242424243, 0.48917748917748916)
+_nn
+_nn done
+(2000, 0.91477272727272729, 0.48484848484848486)
+_nn
+_nn done
+(2500, 0.95833333333333337, 0.48701298701298701)
+_nn
+_nn done
+(3000, 0.92045454545454541, 0.46753246753246752)
+_nn
+_nn done
+(3500, 0.91477272727272729, 0.49567099567099565)
+_nn
+_nn done
+(4000, 0.94886363636363635, 0.48268398268398266)
+plotNeural Network ErrorNNonKMwKBtr5nc3
+nn doneonKMwKBtr5nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc4
+nnonKMwKBtr5nc4
+_nn
+_nn done
+(1, 0.39015151515151514, 0.29870129870129869)
+_nn
+_nn done
+(500, 0.88446969696969702, 0.4935064935064935)
+_nn
+_nn done
+(1000, 0.92992424242424243, 0.45670995670995673)
+_nn
+_nn done
+(1500, 0.9375, 0.48701298701298701)
+_nn
+_nn done
+(2000, 0.90909090909090906, 0.45454545454545453)
+_nn
+_nn done
+(2500, 0.94128787878787878, 0.48484848484848486)
+_nn
+_nn done
+(3000, 0.88257575757575757, 0.47835497835497837)
+_nn
+_nn done
+(3500, 0.86931818181818177, 0.48051948051948051)
+_nn
+_nn done
+(4000, 0.95833333333333337, 0.47835497835497837)
+plotNeural Network ErrorNNonKMwKBtr5nc4
+nn doneonKMwKBtr5nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc5
+nnonKMwKBtr5nc5
+_nn
+_nn done
+(1, 0.45833333333333331, 0.30735930735930733)
+_nn
+_nn done
+(500, 0.93371212121212122, 0.46320346320346323)
+_nn
+_nn done
+(1000, 0.95265151515151514, 0.45887445887445888)
+_nn
+_nn done
+(1500, 0.92992424242424243, 0.44372294372294374)
+_nn
+_nn done
+(2000, 0.97727272727272729, 0.49134199134199136)
+_nn
+_nn done
+(2500, 0.95454545454545459, 0.48484848484848486)
+_nn
+_nn done
+(3000, 0.94318181818181823, 0.45887445887445888)
+_nn
+_nn done
+(3500, 0.96022727272727271, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.97727272727272729, 0.47619047619047616)
+plotNeural Network ErrorNNonKMwKBtr5nc5
+nn doneonKMwKBtr5nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc6
+nnonKMwKBtr5nc6
+_nn
+_nn done
+(1, 0.40530303030303028, 0.3593073593073593)
+_nn
+_nn done
+(500, 0.95265151515151514, 0.47186147186147187)
+_nn
+_nn done
+(1000, 0.97537878787878785, 0.45670995670995673)
+_nn
+_nn done
+(1500, 0.96212121212121215, 0.47835497835497837)
+_nn
+_nn done
+(2000, 0.92234848484848486, 0.46969696969696972)
+_nn
+_nn done
+(2500, 0.94507575757575757, 0.46969696969696972)
+_nn
+_nn done
+(3000, 0.98295454545454541, 0.47835497835497837)
+_nn
+_nn done
+(3500, 0.94696969696969702, 0.47402597402597402)
+_nn
+_nn done
+(4000, 0.91477272727272729, 0.47402597402597402)
+plotNeural Network ErrorNNonKMwKBtr5nc6
+nn doneonKMwKBtr5nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc7
+nnonKMwKBtr5nc7
+_nn
+_nn done
+(1, 0.25568181818181818, 0.21861471861471862)
+_nn
+_nn done
+(500, 0.96401515151515149, 0.44588744588744589)
+_nn
+_nn done
+(1000, 0.95643939393939392, 0.48268398268398266)
+_nn
+_nn done
+(1500, 0.95265151515151514, 0.4329004329004329)
+_nn
+_nn done
+(2000, 0.95833333333333337, 0.46969696969696972)
+_nn
+_nn done
+(2500, 0.96590909090909094, 0.47619047619047616)
+_nn
+_nn done
+(3000, 0.91856060606060608, 0.46536796536796537)
+_nn
+_nn done
+(3500, 0.96212121212121215, 0.46103896103896103)
+_nn
+_nn done
+(4000, 0.91477272727272729, 0.48268398268398266)
+plotNeural Network ErrorNNonKMwKBtr5nc7
+nn doneonKMwKBtr5nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc8
+nnonKMwKBtr5nc8
+_nn
+_nn done
+(1, 0.30113636363636365, 0.21861471861471862)
+_nn
+_nn done
+(500, 0.95833333333333337, 0.48917748917748916)
+_nn
+_nn done
+(1000, 0.95643939393939392, 0.48051948051948051)
+_nn
+_nn done
+(1500, 0.94696969696969702, 0.44805194805194803)
+_nn
+_nn done
+(2000, 0.87121212121212122, 0.49134199134199136)
+_nn
+_nn done
+(2500, 0.96969696969696972, 0.49567099567099565)
+_nn
+_nn done
+(3000, 0.93939393939393945, 0.49783549783549785)
+_nn
+_nn done
+(3500, 0.94886363636363635, 0.45454545454545453)
+_nn
+_nn done
+(4000, 0.97727272727272729, 0.44155844155844154)
+plotNeural Network ErrorNNonKMwKBtr5nc8
+nn doneonKMwKBtr5nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc9
+nnonKMwKBtr5nc9
+_nn
+_nn done
+(1, 0.37310606060606061, 0.25757575757575757)
+_nn
+_nn done
+(500, 0.96590909090909094, 0.47186147186147187)
+_nn
+_nn done
+(1000, 0.95833333333333337, 0.47402597402597402)
+_nn
+_nn done
+(1500, 0.96590909090909094, 0.49134199134199136)
+_nn
+_nn done
+(2000, 0.93371212121212122, 0.47186147186147187)
+_nn
+_nn done
+(2500, 0.96401515151515149, 0.47186147186147187)
+_nn
+_nn done
+(3000, 0.96401515151515149, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.95833333333333337, 0.48484848484848486)
+_nn
+_nn done
+(4000, 0.97348484848484851, 0.48917748917748916)
+plotNeural Network ErrorNNonKMwKBtr5nc9
+nn doneonKMwKBtr5nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc10
+nnonKMwKBtr5nc10
+_nn
+_nn done
+(1, 0.39204545454545453, 0.27056277056277056)
+_nn
+_nn done
+(500, 0.96212121212121215, 0.45021645021645024)
+_nn
+_nn done
+(1000, 0.96212121212121215, 0.48051948051948051)
+_nn
+_nn done
+(1500, 0.93939393939393945, 0.45238095238095238)
+_nn
+_nn done
+(2000, 0.90340909090909094, 0.43506493506493504)
+_nn
+_nn done
+(2500, 0.94128787878787878, 0.48051948051948051)
+_nn
+_nn done
+(3000, 0.92992424242424243, 0.46969696969696972)
+_nn
+_nn done
+(3500, 0.9375, 0.46969696969696972)
+_nn
+_nn done
+(4000, 0.96022727272727271, 0.47835497835497837)
+plotNeural Network ErrorNNonKMwKBtr5nc10
+nn doneonKMwKBtr5nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc11
+nnonKMwKBtr5nc11
+_nn
+_nn done
+(1, 0.27840909090909088, 0.28354978354978355)
+_nn
+_nn done
+(500, 0.98295454545454541, 0.47186147186147187)
+_nn
+_nn done
+(1000, 0.97916666666666663, 0.45454545454545453)
+_nn
+_nn done
+(1500, 0.96780303030303028, 0.44588744588744589)
+_nn
+_nn done
+(2000, 0.97727272727272729, 0.48484848484848486)
+_nn
+_nn done
+(2500, 0.9867424242424242, 0.48051948051948051)
+_nn
+_nn done
+(3000, 0.98863636363636365, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.98484848484848486, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.96969696969696972, 0.49134199134199136)
+plotNeural Network ErrorNNonKMwKBtr5nc11
+nn doneonKMwKBtr5nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc20
+nnonKMwKBtr5nc20
+_nn
+_nn done
+(1, 0.375, 0.38744588744588743)
+_nn
+_nn done
+(500, 0.94507575757575757, 0.50216450216450215)
+_nn
+_nn done
+(1000, 0.9375, 0.48701298701298701)
+_nn
+_nn done
+(1500, 0.94128787878787878, 0.48051948051948051)
+_nn
+_nn done
+(2000, 0.96212121212121215, 0.48484848484848486)
+_nn
+_nn done
+(2500, 0.97727272727272729, 0.48268398268398266)
+_nn
+_nn done
+(3000, 0.94128787878787878, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.92992424242424243, 0.48701298701298701)
+_nn
+_nn done
+(4000, 0.92613636363636365, 0.46969696969696972)
+plotNeural Network ErrorNNonKMwKBtr5nc20
+nn doneonKMwKBtr5nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc50
+nnonKMwKBtr5nc50
+_nn
+_nn done
+(1, 0.25, 0.24242424242424243)
+_nn
+_nn done
+(500, 0.94696969696969702, 0.43722943722943725)
+_nn
+_nn done
+(1000, 0.94128787878787878, 0.41991341991341991)
+_nn
+_nn done
+(1500, 0.97537878787878785, 0.43722943722943725)
+_nn
+_nn done
+(2000, 0.90719696969696972, 0.43506493506493504)
+_nn
+_nn done
+(2500, 0.92613636363636365, 0.44372294372294374)
+_nn
+_nn done
+(3000, 0.94696969696969702, 0.44372294372294374)
+_nn
+_nn done
+(3500, 0.89015151515151514, 0.46969696969696972)
+_nn
+_nn done
+(4000, 0.9242424242424242, 0.44155844155844154)
+plotNeural Network ErrorNNonKMwKBtr5nc50
+nn doneonKMwKBtr5nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr5nc88
+nnonKMwKBtr5nc88
+_nn
+_nn done
+(1, 0.35984848484848486, 0.33549783549783552)
+_nn
+_nn done
+(500, 0.94696969696969702, 0.50216450216450215)
+_nn
+_nn done
+(1000, 0.94318181818181823, 0.48701298701298701)
+_nn
+_nn done
+(1500, 0.96969696969696972, 0.49134199134199136)
+_nn
+_nn done
+(2000, 0.90151515151515149, 0.45454545454545453)
+_nn
+_nn done
+(2500, 0.9507575757575758, 0.5)
+_nn
+_nn done
+(3000, 0.9375, 0.50649350649350644)
+_nn
+_nn done
+(3500, 0.9507575757575758, 0.50432900432900429)
+_nn
+_nn done
+(4000, 0.96590909090909094, 0.47186147186147187)
+plotNeural Network ErrorNNonKMwKBtr5nc88
+nn doneonKMwKBtr5nc88
+km donewKBtr5nc88
+nnwKBtr5
+_nn
+_nn done
+(1, 0.27272727272727271, 0.24891774891774893)
+_nn
+_nn done
+(500, 0.97727272727272729, 0.49134199134199136)
+_nn
+_nn done
+(1000, 0.98863636363636365, 0.44155844155844154)
+_nn
+_nn done
+(1500, 0.99053030303030298, 0.46536796536796537)
+_nn
+_nn done
+(2000, 0.97537878787878785, 0.46753246753246752)
+_nn
+_nn done
+(2500, 0.96022727272727271, 0.46969696969696972)
+_nn
+_nn done
+(3000, 0.9867424242424242, 0.43722943722943725)
+_nn
+_nn done
+(3500, 0.97159090909090906, 0.46536796536796537)
+_nn
+_nn done
+(4000, 0.96022727272727271, 0.46103896103896103)
+plotNeural Network ErrorNNwKBtr5
+nn donewKBtr5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr6
+plotExpectation Maximization ErrorEMwKBtr6
+nnonEMwKBtr6
+_nn
+_nn done
+(1, 0.35795454545454547, 0.32900432900432902)
+_nn
+_nn done
+(500, 0.96022727272727271, 0.52813852813852813)
+_nn
+_nn done
+(1000, 0.99810606060606055, 0.54545454545454541)
+_nn
+_nn done
+(1500, 0.97727272727272729, 0.53463203463203468)
+_nn
+_nn done
+(2000, 0.98484848484848486, 0.55411255411255411)
+_nn
+_nn done
+(2500, 0.97916666666666663, 0.55194805194805197)
+_nn
+_nn done
+(3000, 0.98106060606060608, 0.51731601731601728)
+_nn
+_nn done
+(3500, 0.9867424242424242, 0.52813852813852813)
+_nn
+_nn done
+(4000, 0.97916666666666663, 0.56493506493506496)
+plotNeural Network ErrorNNonEMwKBtr6
+nn doneonEMwKBtr6
+em donewKBtr6
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc2
+nnonKMwKBtr6nc2
+_nn
+_nn done
+(1, 0.25, 0.23376623376623376)
+_nn
+_nn done
+(500, 0.99053030303030298, 0.52597402597402598)
+_nn
+_nn done
+(1000, 0.93939393939393945, 0.53896103896103897)
+_nn
+_nn done
+(1500, 0.98106060606060608, 0.55411255411255411)
+_nn
+_nn done
+(2000, 0.95454545454545459, 0.54329004329004327)
+_nn
+_nn done
+(2500, 0.97727272727272729, 0.54545454545454541)
+_nn
+_nn done
+(3000, 0.98295454545454541, 0.54761904761904767)
+_nn
+_nn done
+(3500, 0.99053030303030298, 0.52597402597402598)
+_nn
+_nn done
+(4000, 0.98295454545454541, 0.54329004329004327)
+plotNeural Network ErrorNNonKMwKBtr6nc2
+nn doneonKMwKBtr6nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc3
+nnonKMwKBtr6nc3
+_nn
+_nn done
+(1, 0.34469696969696972, 0.31168831168831168)
+_nn
+_nn done
+(500, 0.99431818181818177, 0.4935064935064935)
+_nn
+_nn done
+(1000, 0.99431818181818177, 0.51082251082251084)
+_nn
+_nn done
+(1500, 0.98863636363636365, 0.51731601731601728)
+_nn
+_nn done
+(2000, 1.0, 0.53463203463203468)
+_nn
+_nn done
+(2500, 0.98863636363636365, 0.53679653679653683)
+_nn
+_nn done
+(3000, 0.92234848484848486, 0.53246753246753242)
+_nn
+_nn done
+(3500, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(4000, 0.99810606060606055, 0.50649350649350644)
+plotNeural Network ErrorNNonKMwKBtr6nc3
+nn doneonKMwKBtr6nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc4
+nnonKMwKBtr6nc4
+_nn
+_nn done
+(1, 0.33522727272727271, 0.30303030303030304)
+_nn
+_nn done
+(500, 0.98295454545454541, 0.54761904761904767)
+_nn
+_nn done
+(1000, 1.0, 0.46536796536796537)
+_nn
+_nn done
+(1500, 0.97348484848484851, 0.53896103896103897)
+_nn
+_nn done
+(2000, 1.0, 0.51515151515151514)
+_nn
+_nn done
+(2500, 0.97537878787878785, 0.5)
+_nn
+_nn done
+(3000, 0.98295454545454541, 0.53246753246753242)
+_nn
+_nn done
+(3500, 0.99431818181818177, 0.54329004329004327)
+_nn
+_nn done
+(4000, 0.99242424242424243, 0.46103896103896103)
+plotNeural Network ErrorNNonKMwKBtr6nc4
+nn doneonKMwKBtr6nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc5
+nnonKMwKBtr6nc5
+_nn
+_nn done
+(1, 0.32007575757575757, 0.27705627705627706)
+_nn
+_nn done
+(500, 0.96212121212121215, 0.55844155844155841)
+_nn
+_nn done
+(1000, 0.98295454545454541, 0.55844155844155841)
+_nn
+_nn done
+(1500, 0.98484848484848486, 0.55627705627705626)
+_nn
+_nn done
+(2000, 0.97727272727272729, 0.52597402597402598)
+_nn
+_nn done
+(2500, 0.99431818181818177, 0.54761904761904767)
+_nn
+_nn done
+(3000, 0.96780303030303028, 0.54978354978354982)
+_nn
+_nn done
+(3500, 0.99810606060606055, 0.54329004329004327)
+_nn
+_nn done
+(4000, 0.97159090909090906, 0.54761904761904767)
+plotNeural Network ErrorNNonKMwKBtr6nc5
+nn doneonKMwKBtr6nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc6
+nnonKMwKBtr6nc6
+_nn
+_nn done
+(1, 0.34280303030303028, 0.2943722943722944)
+_nn
+_nn done
+(500, 0.97537878787878785, 0.5670995670995671)
+_nn
+_nn done
+(1000, 1.0, 0.61471861471861466)
+_nn
+_nn done
+(1500, 0.97916666666666663, 0.5714285714285714)
+_nn
+_nn done
+(2000, 0.99053030303030298, 0.58225108225108224)
+_nn
+_nn done
+(2500, 0.99810606060606055, 0.5670995670995671)
+_nn
+_nn done
+(3000, 0.9867424242424242, 0.59740259740259738)
+_nn
+_nn done
+(3500, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(4000, 0.97727272727272729, 0.57792207792207795)
+plotNeural Network ErrorNNonKMwKBtr6nc6
+nn doneonKMwKBtr6nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc7
+nnonKMwKBtr6nc7
+_nn
+_nn done
+(1, 0.24810606060606061, 0.24891774891774893)
+_nn
+_nn done
+(500, 0.96969696969696972, 0.53463203463203468)
+_nn
+_nn done
+(1000, 1.0, 0.51731601731601728)
+_nn
+_nn done
+(1500, 0.98863636363636365, 0.54545454545454541)
+_nn
+_nn done
+(2000, 0.99242424242424243, 0.53896103896103897)
+_nn
+_nn done
+(2500, 0.9867424242424242, 0.54978354978354982)
+_nn
+_nn done
+(3000, 0.99621212121212122, 0.52164502164502169)
+_nn
+_nn done
+(3500, 0.97537878787878785, 0.51948051948051943)
+_nn
+_nn done
+(4000, 0.99242424242424243, 0.48701298701298701)
+plotNeural Network ErrorNNonKMwKBtr6nc7
+nn doneonKMwKBtr6nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc8
+nnonKMwKBtr6nc8
+_nn
+_nn done
+(1, 0.38446969696969696, 0.29870129870129869)
+_nn
+_nn done
+(500, 0.97916666666666663, 0.50432900432900429)
+_nn
+_nn done
+(1000, 0.98484848484848486, 0.5)
+_nn
+_nn done
+(1500, 0.99431818181818177, 0.5086580086580087)
+_nn
+_nn done
+(2000, 0.99431818181818177, 0.48701298701298701)
+_nn
+_nn done
+(2500, 0.98863636363636365, 0.51948051948051943)
+_nn
+_nn done
+(3000, 0.9867424242424242, 0.47402597402597402)
+_nn
+_nn done
+(3500, 0.98106060606060608, 0.48051948051948051)
+_nn
+_nn done
+(4000, 0.9867424242424242, 0.50216450216450215)
+plotNeural Network ErrorNNonKMwKBtr6nc8
+nn doneonKMwKBtr6nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc9
+nnonKMwKBtr6nc9
+_nn
+_nn done
+(1, 0.31628787878787878, 0.30952380952380953)
+_nn
+_nn done
+(500, 0.98863636363636365, 0.54112554112554112)
+_nn
+_nn done
+(1000, 0.97159090909090906, 0.50432900432900429)
+_nn
+_nn done
+(1500, 0.96590909090909094, 0.52164502164502169)
+_nn
+_nn done
+(2000, 0.98484848484848486, 0.53463203463203468)
+_nn
+_nn done
+(2500, 0.96590909090909094, 0.4935064935064935)
+_nn
+_nn done
+(3000, 0.96590909090909094, 0.47619047619047616)
+_nn
+_nn done
+(3500, 0.98863636363636365, 0.51082251082251084)
+_nn
+_nn done
+(4000, 0.98295454545454541, 0.52164502164502169)
+plotNeural Network ErrorNNonKMwKBtr6nc9
+nn doneonKMwKBtr6nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc10
+nnonKMwKBtr6nc10
+_nn
+_nn done
+(1, 0.32196969696969696, 0.30086580086580089)
+_nn
+_nn done
+(500, 0.99431818181818177, 0.51948051948051943)
+_nn
+_nn done
+(1000, 0.97916666666666663, 0.55844155844155841)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.5086580086580087)
+_nn
+_nn done
+(2000, 0.98484848484848486, 0.51515151515151514)
+_nn
+_nn done
+(2500, 0.97727272727272729, 0.52597402597402598)
+_nn
+_nn done
+(3000, 0.98106060606060608, 0.51082251082251084)
+_nn
+_nn done
+(3500, 0.97916666666666663, 0.48484848484848486)
+_nn
+_nn done
+(4000, 0.99242424242424243, 0.5086580086580087)
+plotNeural Network ErrorNNonKMwKBtr6nc10
+nn doneonKMwKBtr6nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc11
+nnonKMwKBtr6nc11
+_nn
+_nn done
+(1, 0.38636363636363635, 0.32251082251082253)
+_nn
+_nn done
+(500, 0.98863636363636365, 0.4935064935064935)
+_nn
+_nn done
+(1000, 0.96401515151515149, 0.51948051948051943)
+_nn
+_nn done
+(1500, 0.90719696969696972, 0.45238095238095238)
+_nn
+_nn done
+(2000, 0.98863636363636365, 0.53246753246753242)
+_nn
+_nn done
+(2500, 0.97348484848484851, 0.51298701298701299)
+_nn
+_nn done
+(3000, 0.98106060606060608, 0.47619047619047616)
+_nn
+_nn done
+(3500, 0.99242424242424243, 0.53896103896103897)
+_nn
+_nn done
+(4000, 0.97727272727272729, 0.47186147186147187)
+plotNeural Network ErrorNNonKMwKBtr6nc11
+nn doneonKMwKBtr6nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc20
+nnonKMwKBtr6nc20
+_nn
+_nn done
+(1, 0.45643939393939392, 0.30519480519480519)
+_nn
+_nn done
+(500, 0.97916666666666663, 0.49134199134199136)
+_nn
+_nn done
+(1000, 0.99053030303030298, 0.50649350649350644)
+_nn
+_nn done
+(1500, 0.98295454545454541, 0.5086580086580087)
+_nn
+_nn done
+(2000, 0.98863636363636365, 0.48268398268398266)
+_nn
+_nn done
+(2500, 0.99810606060606055, 0.53030303030303028)
+_nn
+_nn done
+(3000, 0.99621212121212122, 0.5)
+_nn
+_nn done
+(3500, 1.0, 0.47186147186147187)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.5086580086580087)
+plotNeural Network ErrorNNonKMwKBtr6nc20
+nn doneonKMwKBtr6nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc50
+nnonKMwKBtr6nc50
+_nn
+_nn done
+(1, 0.36553030303030304, 0.32467532467532467)
+_nn
+_nn done
+(500, 0.96969696969696972, 0.49567099567099565)
+_nn
+_nn done
+(1000, 0.95643939393939392, 0.43506493506493504)
+_nn
+_nn done
+(1500, 0.9867424242424242, 0.5)
+_nn
+_nn done
+(2000, 0.98863636363636365, 0.47619047619047616)
+_nn
+_nn done
+(2500, 0.97916666666666663, 0.42424242424242425)
+_nn
+_nn done
+(3000, 0.99431818181818177, 0.4935064935064935)
+_nn
+_nn done
+(3500, 0.98106060606060608, 0.48268398268398266)
+_nn
+_nn done
+(4000, 0.97916666666666663, 0.48701298701298701)
+plotNeural Network ErrorNNonKMwKBtr6nc50
+nn doneonKMwKBtr6nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr6nc88
+nnonKMwKBtr6nc88
+_nn
+_nn done
+(1, 0.30681818181818182, 0.23809523809523808)
+_nn
+_nn done
+(500, 0.99242424242424243, 0.52164502164502169)
+_nn
+_nn done
+(1000, 0.9867424242424242, 0.4935064935064935)
+_nn
+_nn done
+(1500, 0.96969696969696972, 0.50432900432900429)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.51298701298701299)
+_nn
+_nn done
+(2500, 0.98295454545454541, 0.5)
+_nn
+_nn done
+(3000, 0.96969696969696972, 0.48484848484848486)
+_nn
+_nn done
+(3500, 0.99242424242424243, 0.50432900432900429)
+_nn
+_nn done
+(4000, 0.96022727272727271, 0.5086580086580087)
+plotNeural Network ErrorNNonKMwKBtr6nc88
+nn doneonKMwKBtr6nc88
+km donewKBtr6nc88
+nnwKBtr6
+_nn
+_nn done
+(1, 0.33901515151515149, 0.24025974025974026)
+_nn
+_nn done
+(500, 0.98484848484848486, 0.60606060606060608)
+_nn
+_nn done
+(1000, 0.99810606060606055, 0.61255411255411252)
+_nn
+_nn done
+(1500, 0.99053030303030298, 0.59307359307359309)
+_nn
+_nn done
+(2000, 0.99053030303030298, 0.56493506493506496)
+_nn
+_nn done
+(2500, 0.99053030303030298, 0.55194805194805197)
+_nn
+_nn done
+(3000, 0.99621212121212122, 0.60173160173160178)
+_nn
+_nn done
+(3500, 0.99621212121212122, 0.54978354978354982)
+_nn
+_nn done
+(4000, 0.98863636363636365, 0.5714285714285714)
+plotNeural Network ErrorNNwKBtr6
+nn donewKBtr6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr7
+plotExpectation Maximization ErrorEMwKBtr7
+nnonEMwKBtr7
+_nn
+_nn done
+(1, 0.31818181818181818, 0.26839826839826841)
+_nn
+_nn done
+(500, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(1000, 1.0, 0.50649350649350644)
+_nn
+_nn done
+(1500, 1.0, 0.48484848484848486)
+_nn
+_nn done
+(2000, 1.0, 0.51948051948051943)
+_nn
+_nn done
+(2500, 1.0, 0.5)
+_nn
+_nn done
+(3000, 1.0, 0.50432900432900429)
+_nn
+_nn done
+(3500, 1.0, 0.49783549783549785)
+_nn
+_nn done
+(4000, 1.0, 0.51082251082251084)
+plotNeural Network ErrorNNonEMwKBtr7
+nn doneonEMwKBtr7
+em donewKBtr7
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc2
+nnonKMwKBtr7nc2
+_nn
+_nn done
+(1, 0.31628787878787878, 0.2943722943722944)
+_nn
+_nn done
+(500, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(1000, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(1500, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(2000, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.56493506493506496)
+_nn
+_nn done
+(3000, 0.99810606060606055, 0.5757575757575758)
+_nn
+_nn done
+(3500, 1.0, 0.54545454545454541)
+_nn
+_nn done
+(4000, 1.0, 0.54761904761904767)
+plotNeural Network ErrorNNonKMwKBtr7nc2
+nn doneonKMwKBtr7nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc3
+nnonKMwKBtr7nc3
+_nn
+_nn done
+(1, 0.28409090909090912, 0.29870129870129869)
+_nn
+_nn done
+(500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(1000, 1.0, 0.61255411255411252)
+_nn
+_nn done
+(1500, 1.0, 0.51082251082251084)
+_nn
+_nn done
+(2000, 1.0, 0.54761904761904767)
+_nn
+_nn done
+(2500, 0.99810606060606055, 0.55411255411255411)
+_nn
+_nn done
+(3000, 1.0, 0.5757575757575758)
+_nn
+_nn done
+(3500, 1.0, 0.54978354978354982)
+_nn
+_nn done
+(4000, 1.0, 0.54761904761904767)
+plotNeural Network ErrorNNonKMwKBtr7nc3
+nn doneonKMwKBtr7nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc4
+nnonKMwKBtr7nc4
+_nn
+_nn done
+(1, 0.37878787878787878, 0.30303030303030304)
+_nn
+_nn done
+(500, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(1000, 1.0, 0.51515151515151514)
+_nn
+_nn done
+(1500, 0.99242424242424243, 0.54978354978354982)
+_nn
+_nn done
+(2000, 0.99242424242424243, 0.53463203463203468)
+_nn
+_nn done
+(2500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(3000, 1.0, 0.51082251082251084)
+_nn
+_nn done
+(3500, 0.99810606060606055, 0.52164502164502169)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.53246753246753242)
+plotNeural Network ErrorNNonKMwKBtr7nc4
+nn doneonKMwKBtr7nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc5
+nnonKMwKBtr7nc5
+_nn
+_nn done
+(1, 0.3503787878787879, 0.2943722943722944)
+_nn
+_nn done
+(500, 1.0, 0.51731601731601728)
+_nn
+_nn done
+(1000, 1.0, 0.53030303030303028)
+_nn
+_nn done
+(1500, 1.0, 0.52813852813852813)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.51731601731601728)
+_nn
+_nn done
+(2500, 1.0, 0.49134199134199136)
+_nn
+_nn done
+(3000, 1.0, 0.50432900432900429)
+_nn
+_nn done
+(3500, 1.0, 0.52164502164502169)
+_nn
+_nn done
+(4000, 1.0, 0.5086580086580087)
+plotNeural Network ErrorNNonKMwKBtr7nc5
+nn doneonKMwKBtr7nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc6
+nnonKMwKBtr7nc6
+_nn
+_nn done
+(1, 0.3996212121212121, 0.30086580086580089)
+_nn
+_nn done
+(500, 1.0, 0.56277056277056281)
+_nn
+_nn done
+(1000, 1.0, 0.54978354978354982)
+_nn
+_nn done
+(1500, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(2000, 1.0, 0.56277056277056281)
+_nn
+_nn done
+(2500, 1.0, 0.53030303030303028)
+_nn
+_nn done
+(3000, 1.0, 0.50649350649350644)
+_nn
+_nn done
+(3500, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(4000, 1.0, 0.55411255411255411)
+plotNeural Network ErrorNNonKMwKBtr7nc6
+nn doneonKMwKBtr7nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc7
+nnonKMwKBtr7nc7
+_nn
+_nn done
+(1, 0.29166666666666669, 0.21645021645021645)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.54112554112554112)
+_nn
+_nn done
+(1000, 0.99810606060606055, 0.54761904761904767)
+_nn
+_nn done
+(1500, 0.96590909090909094, 0.51948051948051943)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.47619047619047616)
+_nn
+_nn done
+(2500, 0.99431818181818177, 0.48917748917748916)
+_nn
+_nn done
+(3000, 0.99810606060606055, 0.53246753246753242)
+_nn
+_nn done
+(3500, 0.96212121212121215, 0.50432900432900429)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.52164502164502169)
+plotNeural Network ErrorNNonKMwKBtr7nc7
+nn doneonKMwKBtr7nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc8
+nnonKMwKBtr7nc8
+_nn
+_nn done
+(1, 0.39204545454545453, 0.41341991341991341)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.53679653679653683)
+_nn
+_nn done
+(1000, 0.99621212121212122, 0.51082251082251084)
+_nn
+_nn done
+(1500, 0.99621212121212122, 0.49783549783549785)
+_nn
+_nn done
+(2000, 1.0, 0.49567099567099565)
+_nn
+_nn done
+(2500, 1.0, 0.49134199134199136)
+_nn
+_nn done
+(3000, 0.98863636363636365, 0.53246753246753242)
+_nn
+_nn done
+(3500, 1.0, 0.50649350649350644)
+_nn
+_nn done
+(4000, 1.0, 0.51731601731601728)
+plotNeural Network ErrorNNonKMwKBtr7nc8
+nn doneonKMwKBtr7nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc9
+nnonKMwKBtr7nc9
+_nn
+_nn done
+(1, 0.3125, 0.30735930735930733)
+_nn
+_nn done
+(500, 0.99242424242424243, 0.52164502164502169)
+_nn
+_nn done
+(1000, 0.9867424242424242, 0.53896103896103897)
+_nn
+_nn done
+(1500, 0.99621212121212122, 0.52813852813852813)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.51298701298701299)
+_nn
+_nn done
+(2500, 0.99431818181818177, 0.55627705627705626)
+_nn
+_nn done
+(3000, 0.99621212121212122, 0.5714285714285714)
+_nn
+_nn done
+(3500, 0.99810606060606055, 0.54545454545454541)
+_nn
+_nn done
+(4000, 0.99053030303030298, 0.55844155844155841)
+plotNeural Network ErrorNNonKMwKBtr7nc9
+nn doneonKMwKBtr7nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc10
+nnonKMwKBtr7nc10
+_nn
+_nn done
+(1, 0.41856060606060608, 0.34848484848484851)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.54545454545454541)
+_nn
+_nn done
+(1000, 0.99621212121212122, 0.50432900432900429)
+_nn
+_nn done
+(1500, 0.99242424242424243, 0.50432900432900429)
+_nn
+_nn done
+(2000, 1.0, 0.51298701298701299)
+_nn
+_nn done
+(2500, 1.0, 0.4935064935064935)
+_nn
+_nn done
+(3000, 0.97916666666666663, 0.49134199134199136)
+_nn
+_nn done
+(3500, 1.0, 0.50432900432900429)
+_nn
+_nn done
+(4000, 1.0, 0.50216450216450215)
+plotNeural Network ErrorNNonKMwKBtr7nc10
+nn doneonKMwKBtr7nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc11
+nnonKMwKBtr7nc11
+_nn
+_nn done
+(1, 0.2878787878787879, 0.25974025974025972)
+_nn
+_nn done
+(500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(1000, 1.0, 0.53463203463203468)
+_nn
+_nn done
+(1500, 1.0, 0.50649350649350644)
+_nn
+_nn done
+(2000, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(2500, 1.0, 0.53030303030303028)
+_nn
+_nn done
+(3000, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(3500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(4000, 1.0, 0.52813852813852813)
+plotNeural Network ErrorNNonKMwKBtr7nc11
+nn doneonKMwKBtr7nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc20
+nnonKMwKBtr7nc20
+_nn
+_nn done
+(1, 0.32765151515151514, 0.23160173160173161)
+_nn
+_nn done
+(500, 1.0, 0.58441558441558439)
+_nn
+_nn done
+(1000, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(1500, 0.99242424242424243, 0.56493506493506496)
+_nn
+_nn done
+(2000, 0.99053030303030298, 0.58658008658008653)
+_nn
+_nn done
+(2500, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(3000, 0.99621212121212122, 0.56493506493506496)
+_nn
+_nn done
+(3500, 1.0, 0.54978354978354982)
+_nn
+_nn done
+(4000, 0.99621212121212122, 0.55844155844155841)
+plotNeural Network ErrorNNonKMwKBtr7nc20
+nn doneonKMwKBtr7nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc50
+nnonKMwKBtr7nc50
+_nn
+_nn done
+(1, 0.34659090909090912, 0.18614718614718614)
+_nn
+_nn done
+(500, 1.0, 0.52164502164502169)
+_nn
+_nn done
+(1000, 1.0, 0.52813852813852813)
+_nn
+_nn done
+(1500, 1.0, 0.54761904761904767)
+_nn
+_nn done
+(2000, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(2500, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(3000, 1.0, 0.52164502164502169)
+_nn
+_nn done
+(3500, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(4000, 1.0, 0.52164502164502169)
+plotNeural Network ErrorNNonKMwKBtr7nc50
+nn doneonKMwKBtr7nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr7nc88
+nnonKMwKBtr7nc88
+_nn
+_nn done
+(1, 0.32954545454545453, 0.31818181818181818)
+_nn
+_nn done
+(500, 1.0, 0.51298701298701299)
+_nn
+_nn done
+(1000, 1.0, 0.55627705627705626)
+_nn
+_nn done
+(1500, 1.0, 0.51082251082251084)
+_nn
+_nn done
+(2000, 1.0, 0.51298701298701299)
+_nn
+_nn done
+(2500, 1.0, 0.51731601731601728)
+_nn
+_nn done
+(3000, 1.0, 0.52164502164502169)
+_nn
+_nn done
+(3500, 1.0, 0.51082251082251084)
+_nn
+_nn done
+(4000, 1.0, 0.51298701298701299)
+plotNeural Network ErrorNNonKMwKBtr7nc88
+nn doneonKMwKBtr7nc88
+km donewKBtr7nc88
+nnwKBtr7
+_nn
+_nn done
+(1, 0.32765151515151514, 0.2813852813852814)
+_nn
+_nn done
+(500, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(1000, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(1500, 1.0, 0.59956709956709953)
+_nn
+_nn done
+(2000, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(2500, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(3000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(3500, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(4000, 1.0, 0.54978354978354982)
+plotNeural Network ErrorNNwKBtr7
+nn donewKBtr7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr8
+plotExpectation Maximization ErrorEMwKBtr8
+nnonEMwKBtr8
+_nn
+_nn done
+(1, 0.22916666666666666, 0.17532467532467533)
+_nn
+_nn done
+(500, 1.0, 0.59090909090909094)
+_nn
+_nn done
+(1000, 1.0, 0.57359307359307354)
+_nn
+_nn done
+(1500, 1.0, 0.5757575757575758)
+_nn
+_nn done
+(2000, 1.0, 0.59307359307359309)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.56060606060606055)
+_nn
+_nn done
+(3000, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(3500, 0.99621212121212122, 0.56277056277056281)
+_nn
+_nn done
+(4000, 1.0, 0.59090909090909094)
+plotNeural Network ErrorNNonEMwKBtr8
+nn doneonEMwKBtr8
+em donewKBtr8
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc2
+nnonKMwKBtr8nc2
+_nn
+_nn done
+(1, 0.30303030303030304, 0.25757575757575757)
+_nn
+_nn done
+(500, 1.0, 0.52813852813852813)
+_nn
+_nn done
+(1000, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.55194805194805197)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.55194805194805197)
+_nn
+_nn done
+(2500, 1.0, 0.54761904761904767)
+_nn
+_nn done
+(3000, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(3500, 1.0, 0.54761904761904767)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.54761904761904767)
+plotNeural Network ErrorNNonKMwKBtr8nc2
+nn doneonKMwKBtr8nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc3
+nnonKMwKBtr8nc3
+_nn
+_nn done
+(1, 0.29166666666666669, 0.18398268398268397)
+_nn
+_nn done
+(500, 1.0, 0.55627705627705626)
+_nn
+_nn done
+(1000, 1.0, 0.58441558441558439)
+_nn
+_nn done
+(1500, 1.0, 0.57359307359307354)
+_nn
+_nn done
+(2000, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(2500, 1.0, 0.57792207792207795)
+_nn
+_nn done
+(3000, 1.0, 0.59090909090909094)
+_nn
+_nn done
+(3500, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(4000, 1.0, 0.57792207792207795)
+plotNeural Network ErrorNNonKMwKBtr8nc3
+nn doneonKMwKBtr8nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc4
+nnonKMwKBtr8nc4
+_nn
+_nn done
+(1, 0.45833333333333331, 0.32683982683982682)
+_nn
+_nn done
+(500, 0.99621212121212122, 0.55194805194805197)
+_nn
+_nn done
+(1000, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(1500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(2000, 1.0, 0.59523809523809523)
+_nn
+_nn done
+(2500, 1.0, 0.59523809523809523)
+_nn
+_nn done
+(3000, 0.99242424242424243, 0.57792207792207795)
+_nn
+_nn done
+(3500, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(4000, 0.99810606060606055, 0.59523809523809523)
+plotNeural Network ErrorNNonKMwKBtr8nc4
+nn doneonKMwKBtr8nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc5
+nnonKMwKBtr8nc5
+_nn
+_nn done
+(1, 0.34280303030303028, 0.30086580086580089)
+_nn
+_nn done
+(500, 1.0, 0.61471861471861466)
+_nn
+_nn done
+(1000, 1.0, 0.63203463203463206)
+_nn
+_nn done
+(1500, 1.0, 0.59956709956709953)
+_nn
+_nn done
+(2000, 1.0, 0.62770562770562766)
+_nn
+_nn done
+(2500, 1.0, 0.62554112554112551)
+_nn
+_nn done
+(3000, 1.0, 0.60822510822510822)
+_nn
+_nn done
+(3500, 1.0, 0.64935064935064934)
+_nn
+_nn done
+(4000, 1.0, 0.63203463203463206)
+plotNeural Network ErrorNNonKMwKBtr8nc5
+nn doneonKMwKBtr8nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc6
+nnonKMwKBtr8nc6
+_nn
+_nn done
+(1, 0.26893939393939392, 0.22294372294372294)
+_nn
+_nn done
+(500, 1.0, 0.59090909090909094)
+_nn
+_nn done
+(1000, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(1500, 1.0, 0.54545454545454541)
+_nn
+_nn done
+(2000, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(2500, 1.0, 0.54545454545454541)
+_nn
+_nn done
+(3000, 1.0, 0.59090909090909094)
+_nn
+_nn done
+(3500, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(4000, 1.0, 0.59956709956709953)
+plotNeural Network ErrorNNonKMwKBtr8nc6
+nn doneonKMwKBtr8nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc7
+nnonKMwKBtr8nc7
+_nn
+_nn done
+(1, 0.35227272727272729, 0.31168831168831168)
+_nn
+_nn done
+(500, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(1000, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.56060606060606055)
+_nn
+_nn done
+(2000, 0.99053030303030298, 0.54329004329004327)
+_nn
+_nn done
+(2500, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(3000, 0.99810606060606055, 0.55411255411255411)
+_nn
+_nn done
+(3500, 1.0, 0.50432900432900429)
+_nn
+_nn done
+(4000, 0.99621212121212122, 0.55411255411255411)
+plotNeural Network ErrorNNonKMwKBtr8nc7
+nn doneonKMwKBtr8nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc8
+nnonKMwKBtr8nc8
+_nn
+_nn done
+(1, 0.32386363636363635, 0.25324675324675322)
+_nn
+_nn done
+(500, 1.0, 0.61688311688311692)
+_nn
+_nn done
+(1000, 1.0, 0.56277056277056281)
+_nn
+_nn done
+(1500, 1.0, 0.54761904761904767)
+_nn
+_nn done
+(2000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(2500, 1.0, 0.58441558441558439)
+_nn
+_nn done
+(3000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(3500, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(4000, 1.0, 0.58441558441558439)
+plotNeural Network ErrorNNonKMwKBtr8nc8
+nn doneonKMwKBtr8nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc9
+nnonKMwKBtr8nc9
+_nn
+_nn done
+(1, 0.42234848484848486, 0.27489177489177491)
+_nn
+_nn done
+(500, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(1000, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(1500, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(2000, 1.0, 0.57359307359307354)
+_nn
+_nn done
+(2500, 1.0, 0.57792207792207795)
+_nn
+_nn done
+(3000, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(3500, 1.0, 0.60173160173160178)
+_nn
+_nn done
+(4000, 1.0, 0.56060606060606055)
+plotNeural Network ErrorNNonKMwKBtr8nc9
+nn doneonKMwKBtr8nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc10
+nnonKMwKBtr8nc10
+_nn
+_nn done
+(1, 0.35795454545454547, 0.2813852813852814)
+_nn
+_nn done
+(500, 1.0, 0.55627705627705626)
+_nn
+_nn done
+(1000, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(1500, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(2000, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(2500, 1.0, 0.57359307359307354)
+_nn
+_nn done
+(3000, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(3500, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(4000, 1.0, 0.58008658008658009)
+plotNeural Network ErrorNNonKMwKBtr8nc10
+nn doneonKMwKBtr8nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc11
+nnonKMwKBtr8nc11
+_nn
+_nn done
+(1, 0.31439393939393939, 0.2857142857142857)
+_nn
+_nn done
+(500, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(1000, 1.0, 0.5670995670995671)
+_nn
+_nn done
+(1500, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(2000, 0.98863636363636365, 0.56493506493506496)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.53030303030303028)
+_nn
+_nn done
+(3000, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(3500, 0.99621212121212122, 0.58008658008658009)
+_nn
+_nn done
+(4000, 1.0, 0.59307359307359309)
+plotNeural Network ErrorNNonKMwKBtr8nc11
+nn doneonKMwKBtr8nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc20
+nnonKMwKBtr8nc20
+_nn
+_nn done
+(1, 0.30113636363636365, 0.27272727272727271)
+_nn
+_nn done
+(500, 0.99431818181818177, 0.61471861471861466)
+_nn
+_nn done
+(1000, 1.0, 0.61038961038961037)
+_nn
+_nn done
+(1500, 1.0, 0.61688311688311692)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.59740259740259738)
+_nn
+_nn done
+(2500, 1.0, 0.61255411255411252)
+_nn
+_nn done
+(3000, 1.0, 0.6428571428571429)
+_nn
+_nn done
+(3500, 0.99053030303030298, 0.59523809523809523)
+_nn
+_nn done
+(4000, 1.0, 0.61904761904761907)
+plotNeural Network ErrorNNonKMwKBtr8nc20
+nn doneonKMwKBtr8nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc50
+nnonKMwKBtr8nc50
+_nn
+_nn done
+(1, 0.36174242424242425, 0.29004329004329005)
+_nn
+_nn done
+(500, 1.0, 0.55627705627705626)
+_nn
+_nn done
+(1000, 0.99621212121212122, 0.54329004329004327)
+_nn
+_nn done
+(1500, 1.0, 0.55194805194805197)
+_nn
+_nn done
+(2000, 0.96022727272727271, 0.54978354978354982)
+_nn
+_nn done
+(2500, 1.0, 0.55411255411255411)
+_nn
+_nn done
+(3000, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(3500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(4000, 0.99242424242424243, 0.55844155844155841)
+plotNeural Network ErrorNNonKMwKBtr8nc50
+nn doneonKMwKBtr8nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr8nc88
+nnonKMwKBtr8nc88
+_nn
+_nn done
+(1, 0.40530303030303028, 0.354978354978355)
+_nn
+_nn done
+(500, 1.0, 0.61038961038961037)
+_nn
+_nn done
+(1000, 1.0, 0.59523809523809523)
+_nn
+_nn done
+(1500, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(2000, 1.0, 0.62554112554112551)
+_nn
+_nn done
+(2500, 1.0, 0.61255411255411252)
+_nn
+_nn done
+(3000, 1.0, 0.61688311688311692)
+_nn
+_nn done
+(3500, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(4000, 1.0, 0.59523809523809523)
+plotNeural Network ErrorNNonKMwKBtr8nc88
+nn doneonKMwKBtr8nc88
+km donewKBtr8nc88
+nnwKBtr8
+_nn
+_nn done
+(1, 0.45075757575757575, 0.2943722943722944)
+_nn
+_nn done
+(500, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(1000, 1.0, 0.60822510822510822)
+_nn
+_nn done
+(1500, 1.0, 0.59956709956709953)
+_nn
+_nn done
+(2000, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(2500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(3000, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(3500, 1.0, 0.5670995670995671)
+_nn
+_nn done
+(4000, 1.0, 0.59740259740259738)
+plotNeural Network ErrorNNwKBtr8
+nn donewKBtr8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:515: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+emwKBtr9
+plotExpectation Maximization ErrorEMwKBtr9
+nnonEMwKBtr9
+_nn
+_nn done
+(1, 0.32765151515151514, 0.28354978354978355)
+_nn
+_nn done
+(500, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(1000, 1.0, 0.52597402597402598)
+_nn
+_nn done
+(1500, 1.0, 0.55627705627705626)
+_nn
+_nn done
+(2000, 1.0, 0.53030303030303028)
+_nn
+_nn done
+(2500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(3000, 1.0, 0.53246753246753242)
+_nn
+_nn done
+(3500, 1.0, 0.51298701298701299)
+_nn
+_nn done
+(4000, 1.0, 0.48917748917748916)
+plotNeural Network ErrorNNonEMwKBtr9
+nn doneonEMwKBtr9
+em donewKBtr9
+km
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc2
+nnonKMwKBtr9nc2
+_nn
+_nn done
+(1, 0.37689393939393939, 0.33549783549783552)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.54761904761904767)
+_nn
+_nn done
+(1000, 1.0, 0.51731601731601728)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.54329004329004327)
+_nn
+_nn done
+(2000, 0.99053030303030298, 0.53030303030303028)
+_nn
+_nn done
+(2500, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(3000, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(3500, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.55411255411255411)
+plotNeural Network ErrorNNonKMwKBtr9nc2
+nn doneonKMwKBtr9nc2
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc3
+nnonKMwKBtr9nc3
+_nn
+_nn done
+(1, 0.29545454545454547, 0.19480519480519481)
+_nn
+_nn done
+(500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(1000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(1500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(2000, 1.0, 0.62770562770562766)
+_nn
+_nn done
+(2500, 0.99810606060606055, 0.5670995670995671)
+_nn
+_nn done
+(3000, 1.0, 0.62554112554112551)
+_nn
+_nn done
+(3500, 1.0, 0.60173160173160178)
+_nn
+_nn done
+(4000, 1.0, 0.61688311688311692)
+plotNeural Network ErrorNNonKMwKBtr9nc3
+nn doneonKMwKBtr9nc3
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc4
+nnonKMwKBtr9nc4
+_nn
+_nn done
+(1, 0.27651515151515149, 0.20779220779220781)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.58658008658008653)
+_nn
+_nn done
+(1000, 0.99621212121212122, 0.60389610389610393)
+_nn
+_nn done
+(1500, 0.99621212121212122, 0.5714285714285714)
+_nn
+_nn done
+(2000, 0.99621212121212122, 0.59740259740259738)
+_nn
+_nn done
+(2500, 0.99431818181818177, 0.58225108225108224)
+_nn
+_nn done
+(3000, 0.99810606060606055, 0.57792207792207795)
+_nn
+_nn done
+(3500, 0.99431818181818177, 0.59090909090909094)
+_nn
+_nn done
+(4000, 0.99431818181818177, 0.5714285714285714)
+plotNeural Network ErrorNNonKMwKBtr9nc4
+nn doneonKMwKBtr9nc4
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc5
+nnonKMwKBtr9nc5
+_nn
+_nn done
+(1, 0.35795454545454547, 0.25324675324675322)
+_nn
+_nn done
+(500, 1.0, 0.61038961038961037)
+_nn
+_nn done
+(1000, 1.0, 0.61255411255411252)
+_nn
+_nn done
+(1500, 1.0, 0.60822510822510822)
+_nn
+_nn done
+(2000, 1.0, 0.63636363636363635)
+_nn
+_nn done
+(2500, 1.0, 0.61688311688311692)
+_nn
+_nn done
+(3000, 1.0, 0.58441558441558439)
+_nn
+_nn done
+(3500, 1.0, 0.58658008658008653)
+_nn
+_nn done
+(4000, 1.0, 0.60606060606060608)
+plotNeural Network ErrorNNonKMwKBtr9nc5
+nn doneonKMwKBtr9nc5
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc6
+nnonKMwKBtr9nc6
+_nn
+_nn done
+(1, 0.44696969696969696, 0.30952380952380953)
+_nn
+_nn done
+(500, 1.0, 0.60173160173160178)
+_nn
+_nn done
+(1000, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.60822510822510822)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.56493506493506496)
+_nn
+_nn done
+(2500, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(3000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(3500, 0.99431818181818177, 0.60606060606060608)
+_nn
+_nn done
+(4000, 0.99810606060606055, 0.61255411255411252)
+plotNeural Network ErrorNNonKMwKBtr9nc6
+nn doneonKMwKBtr9nc6
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc7
+nnonKMwKBtr9nc7
+_nn
+_nn done
+(1, 0.32575757575757575, 0.2792207792207792)
+_nn
+_nn done
+(500, 0.99621212121212122, 0.60822510822510822)
+_nn
+_nn done
+(1000, 1.0, 0.59307359307359309)
+_nn
+_nn done
+(1500, 1.0, 0.57359307359307354)
+_nn
+_nn done
+(2000, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(2500, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(3000, 1.0, 0.56277056277056281)
+_nn
+_nn done
+(3500, 0.99621212121212122, 0.54761904761904767)
+_nn
+_nn done
+(4000, 0.99810606060606055, 0.5714285714285714)
+plotNeural Network ErrorNNonKMwKBtr9nc7
+nn doneonKMwKBtr9nc7
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc8
+nnonKMwKBtr9nc8
+_nn
+_nn done
+(1, 0.34469696969696972, 0.29004329004329005)
+_nn
+_nn done
+(500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(1000, 1.0, 0.54112554112554112)
+_nn
+_nn done
+(1500, 1.0, 0.59740259740259738)
+_nn
+_nn done
+(2000, 1.0, 0.52813852813852813)
+_nn
+_nn done
+(2500, 1.0, 0.53246753246753242)
+_nn
+_nn done
+(3000, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(3500, 1.0, 0.54545454545454541)
+_nn
+_nn done
+(4000, 1.0, 0.55627705627705626)
+plotNeural Network ErrorNNonKMwKBtr9nc8
+nn doneonKMwKBtr9nc8
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc9
+nnonKMwKBtr9nc9
+_nn
+_nn done
+(1, 0.27272727272727271, 0.22727272727272727)
+_nn
+_nn done
+(500, 0.99810606060606055, 0.57359307359307354)
+_nn
+_nn done
+(1000, 1.0, 0.58008658008658009)
+_nn
+_nn done
+(1500, 0.99810606060606055, 0.55627705627705626)
+_nn
+_nn done
+(2000, 0.99810606060606055, 0.58874458874458879)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.53246753246753242)
+_nn
+_nn done
+(3000, 1.0, 0.53246753246753242)
+_nn
+_nn done
+(3500, 0.96401515151515149, 0.52813852813852813)
+_nn
+_nn done
+(4000, 0.99810606060606055, 0.52380952380952384)
+plotNeural Network ErrorNNonKMwKBtr9nc9
+nn doneonKMwKBtr9nc9
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc10
+nnonKMwKBtr9nc10
+_nn
+_nn done
+(1, 0.48484848484848486, 0.37445887445887444)
+_nn
+_nn done
+(500, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(1000, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(1500, 1.0, 0.60822510822510822)
+_nn
+_nn done
+(2000, 1.0, 0.60389610389610393)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.60389610389610393)
+_nn
+_nn done
+(3000, 1.0, 0.60822510822510822)
+_nn
+_nn done
+(3500, 0.97537878787878785, 0.58441558441558439)
+_nn
+_nn done
+(4000, 1.0, 0.58874458874458879)
+plotNeural Network ErrorNNonKMwKBtr9nc10
+nn doneonKMwKBtr9nc10
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc11
+nnonKMwKBtr9nc11
+_nn
+_nn done
+(1, 0.40151515151515149, 0.33549783549783552)
+_nn
+_nn done
+(500, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(1000, 1.0, 0.59307359307359309)
+_nn
+_nn done
+(1500, 1.0, 0.5670995670995671)
+_nn
+_nn done
+(2000, 1.0, 0.56493506493506496)
+_nn
+_nn done
+(2500, 0.99621212121212122, 0.57792207792207795)
+_nn
+_nn done
+(3000, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(3500, 0.99810606060606055, 0.5757575757575758)
+_nn
+_nn done
+(4000, 0.99621212121212122, 0.59090909090909094)
+plotNeural Network ErrorNNonKMwKBtr9nc11
+nn doneonKMwKBtr9nc11
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc20
+nnonKMwKBtr9nc20
+_nn
+_nn done
+(1, 0.35984848484848486, 0.30303030303030304)
+_nn
+_nn done
+(500, 1.0, 0.48917748917748916)
+_nn
+_nn done
+(1000, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(1500, 1.0, 0.53679653679653683)
+_nn
+_nn done
+(2000, 1.0, 0.54329004329004327)
+_nn
+_nn done
+(2500, 1.0, 0.54112554112554112)
+_nn
+_nn done
+(3000, 1.0, 0.53030303030303028)
+_nn
+_nn done
+(3500, 1.0, 0.53896103896103897)
+_nn
+_nn done
+(4000, 1.0, 0.54112554112554112)
+plotNeural Network ErrorNNonKMwKBtr9nc20
+nn doneonKMwKBtr9nc20
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc50
+nnonKMwKBtr9nc50
+_nn
+_nn done
+(1, 0.30303030303030304, 0.24025974025974026)
+_nn
+_nn done
+(500, 1.0, 0.59090909090909094)
+_nn
+_nn done
+(1000, 1.0, 0.59956709956709953)
+_nn
+_nn done
+(1500, 1.0, 0.59307359307359309)
+_nn
+_nn done
+(2000, 1.0, 0.59956709956709953)
+_nn
+_nn done
+(2500, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(3000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(3500, 1.0, 0.56926406926406925)
+_nn
+_nn done
+(4000, 1.0, 0.55194805194805197)
+plotNeural Network ErrorNNonKMwKBtr9nc50
+nn doneonKMwKBtr9nc50
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype int64 was converted to float64.
+  warnings.warn(msg, DataConversionWarning)
+plotKMeans clustering errorKMwKBtr9nc88
+nnonKMwKBtr9nc88
+_nn
+_nn done
+(1, 0.40719696969696972, 0.24891774891774893)
+_nn
+_nn done
+(500, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(1000, 0.99810606060606055, 0.54329004329004327)
+_nn
+_nn done
+(1500, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(2000, 0.99621212121212122, 0.5670995670995671)
+_nn
+_nn done
+(2500, 1.0, 0.56060606060606055)
+_nn
+_nn done
+(3000, 0.98863636363636365, 0.55627705627705626)
+_nn
+_nn done
+(3500, 0.99621212121212122, 0.58008658008658009)
+_nn
+_nn done
+(4000, 0.99053030303030298, 0.5670995670995671)
+plotNeural Network ErrorNNonKMwKBtr9nc88
+nn doneonKMwKBtr9nc88
+km donewKBtr9nc88
+nnwKBtr9
+_nn
+_nn done
+(1, 0.38068181818181818, 0.27056277056277056)
+_nn
+_nn done
+(500, 1.0, 0.59307359307359309)
+_nn
+_nn done
+(1000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(1500, 1.0, 0.5714285714285714)
+_nn
+_nn done
+(2000, 1.0, 0.58225108225108224)
+_nn
+_nn done
+(2500, 1.0, 0.58874458874458879)
+_nn
+_nn done
+(3000, 1.0, 0.60173160173160178)
+_nn
+_nn done
+(3500, 1.0, 0.54112554112554112)
+_nn
+_nn done
+(4000, 1.0, 0.58441558441558439)
+plotNeural Network ErrorNNwKBtr9
+nn donewKBtr9
+kbest done
+
